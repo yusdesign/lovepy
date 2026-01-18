@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 74.1%
-😂 Extra joke: QAs consist of 55% water, 30% blood and 15% Jira tickets.
-⏰ 2026-01-18 20:02:54 UTC
+🎲 Chance: 26.8%
+😂 Funny: A friend is in a band called 1023Mb. They haven't had a gig yet.
+⏰ 2026-01-18 20:03:04 UTC
 🔗 https://github.com/yusdesign/lovepy
