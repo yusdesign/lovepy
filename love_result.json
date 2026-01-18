@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7812477883785784,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
-  "timestamp": "2026-01-18T23:37:54.821938",
+  "level": "SEGFAULT",
+  "chance": 0.018524026998358423,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are II types of people: Those who understand Roman Numerals and those who don't.",
+  "timestamp": "2026-01-18T23:38:04.069277",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120599632"
+  "run_id": "21120600809"
 }
