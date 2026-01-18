@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.25679643093038385,
+  "chance": 0.1396106360815812,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.",
-  "timestamp": "2026-01-18T15:09:16.335687",
+  "joke": "There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.",
+  "timestamp": "2026-01-18T15:09:25.908733",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113861183"
+  "run_id": "21113863543"
 }
