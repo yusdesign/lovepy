@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.19425785757046043,
+  "chance": 0.032432240913465304,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.",
-  "timestamp": "2026-01-18T15:42:50.987900",
+  "joke": "Why did the QA cross the road? To ruin everyone's day.",
+  "timestamp": "2026-01-18T15:43:02.276653",
   "repository": "yusdesign/lovepy",
-  "run_id": "21114335774"
+  "run_id": "21114337745"
 }
