@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.18578966971126842,
+  "chance": 0.26284243039626654,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
-  "timestamp": "2026-01-18T17:24:50.442283",
+  "joke": "How many programmers does it take to change a lightbulb? None, they just make darkness a standard.",
+  "timestamp": "2026-01-18T17:25:01.413165",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115698623"
+  "run_id": "21115701395"
 }
