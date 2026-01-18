@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 76.8%
-😂 Extra joke: My girlfriend dumped me after I named a class after her. She felt I treated her like an object.
-⏰ 2026-01-18 18:35:54 UTC
+🎲 Chance: 25.8%
+😂 Funny: Sympathy for the Devil is really just about being nice to QAs.
+⏰ 2026-01-18 18:36:05 UTC
 🔗 https://github.com/yusdesign/lovepy
