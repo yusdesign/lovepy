@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.12868963295966962,
+  "chance": 0.19814553238482024,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'",
-  "timestamp": "2026-01-18T20:51:35.995657",
+  "joke": "Why are you always smiling? That's just my... regular expression.",
+  "timestamp": "2026-01-18T20:51:44.284740",
   "repository": "yusdesign/lovepy",
-  "run_id": "21118413740"
+  "run_id": "21118416353"
 }
