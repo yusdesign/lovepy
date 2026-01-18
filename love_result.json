@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.01590860976594466,
+  "chance": 0.2491602895426025,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.",
-  "timestamp": "2026-01-18T20:32:10.506689",
+  "joke": "There are three kinds of people: those who can count and those who can't.",
+  "timestamp": "2026-01-18T20:32:20.000149",
   "repository": "yusdesign/lovepy",
-  "run_id": "21118164985"
+  "run_id": "21118166300"
 }
