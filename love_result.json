@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23395130630206518,
+  "chance": 0.15253998151791803,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
-  "timestamp": "2026-01-18T22:20:39.064633",
+  "joke": "Why do sin and tan work? Just cos.",
+  "timestamp": "2026-01-18T22:20:49.582337",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119583800"
+  "run_id": "21119586046"
 }
