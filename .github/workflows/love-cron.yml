@@ -1,0 +1,184 @@
+# .github/workflows/love-cron.yml
+name: 🐍 Python Love Meter Cron
+
+on:
+  # 1. SCHEDULED - Your main cron
+  schedule:
+    # Every 2 hours from 8 AM to 10 PM UTC
+    - cron: '0 8-22/2 * * *'
+    
+    # Alternative: Every 3 hours 24/7
+    # - cron: '0 */3 * * *'
+    
+    # Alternative: Your specific times (9, 12, 15, 18, 21 UTC)
+    # - cron: '0 9,12,15,18,21 * * *'
+  
+  # 2. MANUAL TRIGGER (from GitHub UI)
+  workflow_dispatch:
+    inputs:
+      user_message:
+        description: 'Optional message'
+        required: false
+        default: 'Manual check!'
+  
+  # 3. ON PUSH (for testing)
+  push:
+    branches: [ main ]
+  
+  # 4. ON PULL REQUEST (for testing)
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  love-check:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: 📦 Install dependencies
+        run: |
+          pip install pyjokes
+          echo "✅ Dependencies installed"
+      
+      - name: 💖 Run Python Love Meter
+        id: love
+        run: |
+          echo "🎲 Running love meter..."
+          python love_meter.py
+          
+          # Capture output for next steps
+          RESULT=$(python -c "
+import random
+import pyjokes
+from datetime import datetime
+
+chance = random.random()
+joke1 = pyjokes.get_joke()
+print('First joke:', joke1)
+
+joke2 = pyjokes.get_joke()
+
+if chance > 0.7:
+    message = '💖 Python loves you unconditionally! ❤️'
+    emoji = '💖'
+    level = 'LOVE'
+elif chance > 0.3:
+    message = '🤝 Python kinda likes you... but needs more indentations.'
+    emoji = '🤝'
+    level = 'LIKE'
+else:
+    message = '💔 Python\\'s heart is currently segfaulting. Try again later.'
+    emoji = '💔'
+    level = 'SEGFAULT'
+
+print(f'{emoji} {message}')
+print(f'🎲 Chance: {chance:.1%}')
+print(f'😂 Second joke: {joke2}')
+print(f'⏰ {datetime.utcnow().strftime(\"%Y-%m-%d %H:%M:%S UTC\")}')
+
+# Set GitHub outputs
+print(f'::set-output name=level::{level}')
+print(f'::set-output name=chance::{chance}')
+print(f'::set-output name=emoji::{emoji}')
+          ")
+          
+          # Save to file
+          python love_meter.py > result.txt
+          
+          # Also save JSON for web
+          python -c "
+import json, random, pyjokes, datetime
+data = {
+    'chance': random.random(),
+    'joke': pyjokes.get_joke(),
+    'timestamp': datetime.datetime.utcnow().isoformat(),
+    'user': '${{ github.actor }}'
+}
+with open('love_result.json', 'w') as f:
+    json.dump(data, f, indent=2)
+          "
+      
+      - name: 📝 Commit and Push Result
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add result.txt love_result.json
+          
+          # Check if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "💖 Love update: ${{ steps.love.outputs.level }} at $(date -u +'%H:%M UTC')"
+            git push origin HEAD:${{ github.ref }}
+          fi
+      
+      - name: 🔔 Create GitHub Issue (Optional)
+        if: steps.love.outputs.level == 'SEGFAULT'
+        run: |
+          gh issue create \
+            --title "💔 Python Heart Segfault Detected" \
+            --body "Chance was ${{ steps.love.outputs.chance }}. Needs debugging!" \
+            --label "bug"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 📊 Update Badge
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gistID: YOUR_GIST_ID  # Optional for badge
+          filename: love-meter.json
+          label: Python Love
+          message: '${{ steps.love.outputs.level }}'
+          color: '${{ steps.love.outputs.level == "LOVE" && "green" || steps.love.outputs.level == "LIKE" && "yellow" || "red" }}'
+      
+      - name: 🎉 Post to GitHub Pages (Optional)
+        if: github.event_name == 'schedule'
+        run: |
+          # Update HTML page
+          cat > docs/index.html << EOF
+          <!DOCTYPE html>
+          <html>
+          <head>
+              <title>🐍 Python Love Meter</title>
+              <meta http-equiv="refresh" content="30">
+              <style>
+                  body { font-family: monospace; padding: 20px; }
+                  .love { color: #e91e63; font-size: 2em; }
+                  .time { color: #666; }
+              </style>
+          </head>
+          <body>
+              <h1>🐍 Python Love Meter</h1>
+              <div class="love">$(cat result.txt | head -1)</div>
+              <div class="time">Last updated: $(date)</div>
+              <pre>$(cat result.txt)</pre>
+              <hr>
+              <small>Next check in 2 hours | <a href="https://github.com/${{ github.repository }}">GitHub</a></small>
+          </body>
+          </html>
+          EOF
+      
+      - name: ✅ Success Notification
+        run: |
+          echo "🎉 Love check completed!"
+          echo "Level: ${{ steps.love.outputs.level }}"
+          echo "Chance: ${{ steps.love.outputs.chance }}"
+          echo "Emoji: ${{ steps.love.outputs.emoji }}"
+          echo ""
+          echo "📁 Result saved to:"
+          echo "- result.txt"
+          echo "- love_result.json"
+          echo ""
+          echo "⏰ Next run: 2 hours"
