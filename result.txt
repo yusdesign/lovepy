@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 71.5%
-😂 Extra joke: Why do sin and tan work? Just cos.
-⏰ 2026-01-18 20:13:16 UTC
+🎲 Chance: 27.2%
+😂 Funny: I just saw my life flash before my eyes and all I could see was a close tag.
+⏰ 2026-01-18 20:13:26 UTC
 🔗 https://github.com/yusdesign/lovepy
