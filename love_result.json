@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9186656075507778,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "ASCII stupid question, get a stupid ANSI.",
-  "timestamp": "2026-01-18T22:21:31.427982",
+  "level": "SEGFAULT",
+  "chance": 0.05834596238643919,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do sin and tan work? Just cos.",
+  "timestamp": "2026-01-18T22:21:39.743293",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119594238"
+  "run_id": "21119596624"
 }
