@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 80.7%
-😂 Extra joke: Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
-⏰ 2026-01-18 14:19:22 UTC
+🎲 Chance: 0.8%
+😂 Funny: What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+⏰ 2026-01-18 14:19:30 UTC
 🔗 https://github.com/yusdesign/lovepy
