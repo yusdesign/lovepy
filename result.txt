@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 74.9%
-😂 Extra joke: Warning, keyboard not found. Press Enter to continue.
-⏰ 2026-01-18 18:41:29 UTC
+🎲 Chance: 4.5%
+😂 Funny: Why do Java programmers have to wear glasses? Because they don't see sharp.
+⏰ 2026-01-18 18:41:39 UTC
 🔗 https://github.com/yusdesign/lovepy
