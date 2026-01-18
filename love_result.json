@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.544777820895301,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-18T17:09:45.215851",
+  "level": "SEGFAULT",
+  "chance": 0.12015865931141179,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
+  "timestamp": "2026-01-18T17:09:56.628092",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115490882"
+  "run_id": "21115493834"
 }
