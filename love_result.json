@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1370258072536925,
+  "chance": 0.2032240544622561,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
-  "timestamp": "2026-01-18T14:14:38.921478",
+  "joke": "How many Prolog programmers does it take to change a lightbulb? false.",
+  "timestamp": "2026-01-18T14:14:49.229781",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113133707"
+  "run_id": "21113135890"
 }
