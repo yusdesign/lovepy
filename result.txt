@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 47.3%
-😂 Joke: Software salesmen and used-car salesmen differ in that the latter know when they are lying.
-⏰ 2026-01-18 18:25:27 UTC
+🎲 Chance: 12.4%
+😂 Funny: !false, (It's funny because it's true)
+⏰ 2026-01-18 18:25:39 UTC
 🔗 https://github.com/yusdesign/lovepy
