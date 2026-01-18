@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.33933236355615093,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There are three kinds of people: those who can count and those who can't.",
-  "timestamp": "2026-01-18T13:59:54.674501",
+  "level": "SEGFAULT",
+  "chance": 0.12901139190876088,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-18T14:00:06.227792",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112922083"
+  "run_id": "21112923733"
 }
