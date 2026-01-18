@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0165722000893459,
+  "chance": 0.25603234372878114,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Is reading in the bathroom considered Multi-Tasking.",
-  "timestamp": "2026-01-18T12:36:57.524858",
+  "joke": "What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.",
+  "timestamp": "2026-01-18T12:37:07.301495",
   "repository": "yusdesign/lovepy",
-  "run_id": "21111839298"
+  "run_id": "21111841007"
 }
