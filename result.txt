@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 89.4%
-😂 Extra joke: Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.
-⏰ 2026-01-18 23:10:37 UTC
+🎲 Chance: 11.8%
+😂 Funny: If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.
+⏰ 2026-01-18 23:10:48 UTC
 🔗 https://github.com/yusdesign/lovepy
