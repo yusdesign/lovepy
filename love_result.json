@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.660540326545614,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
-  "timestamp": "2026-01-18T14:00:27.689115",
+  "level": "SEGFAULT",
+  "chance": 0.06054980215203565,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.",
+  "timestamp": "2026-01-18T14:00:38.384176",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112929151"
+  "run_id": "21112932035"
 }
