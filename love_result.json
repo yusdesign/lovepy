@@ -1,10 +1,10 @@
 {
   "level": "LIKE",
-  "chance": 0.35377869399859196,
+  "chance": 0.3367845742126594,
   "emoji": "\ud83e\udd1d",
   "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
-  "timestamp": "2026-01-18T12:56:19.906033",
+  "joke": "Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.",
+  "timestamp": "2026-01-18T12:56:30.404852",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112089948"
+  "run_id": "21112092128"
 }
