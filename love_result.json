@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13027631008092433,
+  "chance": 0.08987201689105895,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-18T19:24:34.989887",
+  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "timestamp": "2026-01-18T19:24:45.674742",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117299207"
+  "run_id": "21117301013"
 }
