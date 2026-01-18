@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09281777454082196,
+  "chance": 0.15643218579597995,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "When your code does not change color automatically, Something's wrong, I can feel it.",
-  "timestamp": "2026-01-18T22:29:05.085579",
+  "joke": "My favourite computer based band is the Black IPs.",
+  "timestamp": "2026-01-18T22:29:14.058763",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119692740"
+  "run_id": "21119695576"
 }
