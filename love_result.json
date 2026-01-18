@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09823223164583805,
+  "chance": 0.18660414444461448,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-18T22:16:37.535622",
+  "joke": "You are making progress if each mistake is a new one.",
+  "timestamp": "2026-01-18T22:16:47.268019",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119529113"
+  "run_id": "21119531629"
 }
