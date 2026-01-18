@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1702004728484101,
+  "chance": 0.21309141343076354,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
-  "timestamp": "2026-01-18T16:30:42.696876",
+  "joke": "Obfuscated Reality Mappers (ORMs) can be useful database tools.",
+  "timestamp": "2026-01-18T16:30:54.238682",
   "repository": "yusdesign/lovepy",
-  "run_id": "21114980485"
+  "run_id": "21114982953"
 }
