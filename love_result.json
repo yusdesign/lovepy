@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2721037291543482,
+  "chance": 0.052796101585106614,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
-  "timestamp": "2026-01-18T20:34:42.538831",
+  "joke": "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.",
+  "timestamp": "2026-01-18T20:34:52.501515",
   "repository": "yusdesign/lovepy",
-  "run_id": "21118195471"
+  "run_id": "21118197219"
 }
