@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 48.4%
-😂 Joke: Don't compute and drive; the life you save may be your own.
-⏰ 2026-01-18 16:49:29 UTC
+🎲 Chance: 13.1%
+😂 Funny: There are only 10 types of people in this world: those who understand binary, and those who don't.
+⏰ 2026-01-18 16:49:38 UTC
 🔗 https://github.com/yusdesign/lovepy
