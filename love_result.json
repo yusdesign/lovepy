@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7287093985580736,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I used to know a joke about Java, but I run out of memory.",
-  "timestamp": "2026-01-18T16:55:45.916520",
+  "level": "SEGFAULT",
+  "chance": 0.18767079873117665,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "I for one am excited for the days when dereferencing a null pointer causes an aneurysm.",
+  "timestamp": "2026-01-18T16:55:57.490720",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115306323"
+  "run_id": "21115307461"
 }
