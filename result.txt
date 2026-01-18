@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 38.7%
-😂 Joke: Why do Java programmers have to wear glasses? Because they don't see sharp.
-⏰ 2026-01-18 23:53:22 UTC
+🎲 Chance: 6.0%
+😂 Funny: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-18 23:53:34 UTC
 🔗 https://github.com/yusdesign/lovepy
