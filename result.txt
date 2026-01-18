@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 4.1%
-😂 Funny: What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
-⏰ 2026-01-18 20:38:45 UTC
+🎲 Chance: 42.4%
+😂 Joke: How do you know whether a person is a Vim user? Don't worry, they'll tell you.
+⏰ 2026-01-18 20:39:04 UTC
 🔗 https://github.com/yusdesign/lovepy
