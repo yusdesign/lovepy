@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.30276219021675543,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
-  "timestamp": "2026-01-18T15:23:13.255464",
+  "level": "SEGFAULT",
+  "chance": 0.11617705905003883,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-18T15:23:23.326143",
   "repository": "yusdesign/lovepy",
-  "run_id": "21114063154"
+  "run_id": "21114065427"
 }
