@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 96.4%
-😂 Extra joke: Waiter: Would you like coffee or tea? Programmer: Yes.
-⏰ 2026-01-18 16:26:54 UTC
+🎲 Chance: 0.0%
+😂 Funny: The Internet: where men are men, women are men, and children are FBI agents.
+⏰ 2026-01-18 16:27:04 UTC
 🔗 https://github.com/yusdesign/lovepy
