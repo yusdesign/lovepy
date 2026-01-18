@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.08493073857841615,
+  "chance": 0.09920020266330232,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. \"The year is 9999. You know COBOL, right?\"",
-  "timestamp": "2026-01-18T19:03:10.075476",
+  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
+  "timestamp": "2026-01-18T19:03:20.729348",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117003521"
+  "run_id": "21117006662"
 }
