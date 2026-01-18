@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.899038173114838,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-01-18T21:33:02.052593",
+  "level": "SEGFAULT",
+  "chance": 0.24073007724202178,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-18T21:33:13.424803",
   "repository": "yusdesign/lovepy",
-  "run_id": "21118963863"
+  "run_id": "21118965496"
 }
