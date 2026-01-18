@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2526729578403558,
+  "chance": 0.026729766475076633,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.",
-  "timestamp": "2026-01-18T19:41:54.128031",
+  "joke": "How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.",
+  "timestamp": "2026-01-18T19:42:06.438314",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117533111"
+  "run_id": "21117536298"
 }
