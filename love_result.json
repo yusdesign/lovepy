@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2704093561241021,
+  "chance": 0.05540534774385186,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-01-18T18:53:56.114052",
+  "joke": "Why do they call this a word processor? It's simple, ... you've seen what food processors do to food, right?",
+  "timestamp": "2026-01-18T18:54:05.978923",
   "repository": "yusdesign/lovepy",
-  "run_id": "21116882297"
+  "run_id": "21116884460"
 }
