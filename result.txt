@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 55.2%
-😂 Joke: Debugging is like an onion. There are multiple layers to it, and the more you peel them back.
-⏰ 2026-01-18 12:29:58 UTC
+🎲 Chance: 24.4%
+😂 Funny: Warning, keyboard not found. Press Enter to continue.
+⏰ 2026-01-18 12:30:08 UTC
 🔗 https://github.com/yusdesign/lovepy
