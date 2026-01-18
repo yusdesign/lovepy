@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09542556917128686,
+  "chance": 0.15481838248847368,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-18T17:52:43.317065",
+  "joke": "What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'",
+  "timestamp": "2026-01-18T17:52:53.159265",
   "repository": "yusdesign/lovepy",
-  "run_id": "21116072537"
+  "run_id": "21116074174"
 }
