@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1293338321155333,
+  "chance": 0.27344992193063566,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Bugs come in through open Windows.",
-  "timestamp": "2026-01-18T18:54:17.663918",
+  "joke": "A: What is your address? Me: 173.168.15.10 A: No, your local address Me: 127.0.0.1 A: I mean your physical address B: 29:01:38:62:31:58",
+  "timestamp": "2026-01-18T18:54:29.157567",
   "repository": "yusdesign/lovepy",
-  "run_id": "21116886963"
+  "run_id": "21116889718"
 }
