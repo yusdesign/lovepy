@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 50.3%
-😂 Joke: Why does Waldo only wear stripes? Because he doesn't want to be spotted.
-⏰ 2026-01-18 16:44:02 UTC
+🎲 Chance: 26.3%
+😂 Funny: Bug? That's not a bug, that's a feature.
+⏰ 2026-01-18 16:44:12 UTC
 🔗 https://github.com/yusdesign/lovepy
