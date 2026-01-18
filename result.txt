@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 80.5%
-😂 Extra joke: If doctors were like software engineers, they would say things like Have you tried killing yourself and being reborn?
-⏰ 2026-01-18 12:14:13 UTC
+🎲 Chance: 20.6%
+😂 Funny: Unix is user friendly. It's just very particular about who its friends are.
+⏰ 2026-01-18 12:14:25 UTC
 🔗 https://github.com/yusdesign/lovepy
