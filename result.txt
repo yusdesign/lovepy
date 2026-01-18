@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 92.5%
-😂 Extra joke: An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
-⏰ 2026-01-18 23:35:20 UTC
+🎲 Chance: 28.1%
+😂 Funny: A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.
+⏰ 2026-01-18 23:35:30 UTC
 🔗 https://github.com/yusdesign/lovepy
