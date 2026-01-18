@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10340618391750767,
+  "chance": 0.014548970623010415,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many programmers does it take to change a lightbulb? None, they just make darkness a standard.",
-  "timestamp": "2026-01-18T14:10:58.235924",
+  "joke": "What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.",
+  "timestamp": "2026-01-18T14:11:06.563899",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113083418"
+  "run_id": "21113085096"
 }
