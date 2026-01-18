@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2872928550996332,
+  "chance": 0.13245425340452,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.",
-  "timestamp": "2026-01-18T13:24:16.889857",
+  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
+  "timestamp": "2026-01-18T13:24:26.263128",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112465088"
+  "run_id": "21112467361"
 }
