@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7516477805219324,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I would tell you a joke about UDP, but you would never get it.",
-  "timestamp": "2026-01-18T23:32:18.650103",
+  "level": "SEGFAULT",
+  "chance": 0.052910570272986845,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
+  "timestamp": "2026-01-18T23:32:31.089616",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120523622"
+  "run_id": "21120526215"
 }
