@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.873536985418205,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Failure is not an option. It comes bundled with your Microsoft product.",
-  "timestamp": "2026-01-18T13:19:24.746412",
+  "level": "SEGFAULT",
+  "chance": 0.008789896667346642,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "WINDOWS stands for Will Install Needless Data On Whole System.",
+  "timestamp": "2026-01-18T13:19:32.707454",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112399815"
+  "run_id": "21112402210"
 }
