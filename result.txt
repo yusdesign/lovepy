@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 48.9%
-😂 Joke: The program is absolutely right; therefore the computer must be wrong.
-⏰ 2026-01-18 17:22:56 UTC
+🎲 Chance: 16.2%
+😂 Funny: As far as we know, our computer has never had an undetected error.
+⏰ 2026-01-18 17:23:07 UTC
 🔗 https://github.com/yusdesign/lovepy
