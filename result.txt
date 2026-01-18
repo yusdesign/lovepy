@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 94.8%
-😂 Extra joke: Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'
-⏰ 2026-01-18 12:59:28 UTC
+🎲 Chance: 18.2%
+😂 Funny: I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+⏰ 2026-01-18 12:59:37 UTC
 🔗 https://github.com/yusdesign/lovepy
