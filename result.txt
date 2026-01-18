@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+💖 Python Love Meter
+💖 Python loves you unconditionally! ❤️
 
-🎲 Chance: 15.4%
-😂 Funny: How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
-⏰ 2026-01-18 17:25:21 UTC
+🎲 Chance: 76.7%
+😂 Extra joke: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-18 17:25:30 UTC
 🔗 https://github.com/yusdesign/lovepy

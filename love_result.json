@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.15406032901629518,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.",
-  "timestamp": "2026-01-18T17:25:21.091211",
+  "level": "LOVE",
+  "chance": 0.7670526777848022,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.",
+  "timestamp": "2026-01-18T17:25:30.102699",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115706963"
+  "run_id": "21115710044"
 }
