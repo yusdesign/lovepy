@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22374726091107422,
+  "chance": 0.25152661018261613,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
-  "timestamp": "2026-01-18T22:44:40.816953",
+  "joke": "Why did the programmer quit his job? Because he didn't get arrays.",
+  "timestamp": "2026-01-18T22:44:52.307137",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119893499"
+  "run_id": "21119896242"
 }
