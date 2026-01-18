@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.25172639553102083,
+  "chance": 0.1956460931009475,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
-  "timestamp": "2026-01-18T22:19:47.535808",
+  "joke": "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.",
+  "timestamp": "2026-01-18T22:19:58.856776",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119571751"
+  "run_id": "21119573727"
 }
