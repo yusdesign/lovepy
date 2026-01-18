@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2281923585054192,
+  "chance": 0.16597863850032424,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he",
-  "timestamp": "2026-01-18T14:21:18.862065",
+  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
+  "timestamp": "2026-01-18T14:21:29.348447",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113223889"
+  "run_id": "21113225971"
 }
