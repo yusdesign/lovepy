@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2800794562359906,
+  "chance": 0.1925285853296117,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.",
-  "timestamp": "2026-01-18T23:30:56.332792",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-18T23:31:07.688508",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120506325"
+  "run_id": "21120508106"
 }
