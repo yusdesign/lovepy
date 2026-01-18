@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9124526691655909,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "User error: replace user and press any key to continue.",
-  "timestamp": "2026-01-18T13:35:33.278810",
+  "level": "SEGFAULT",
+  "chance": 0.24851932464306914,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "ASCII stupid question, get a stupid ANSI.",
+  "timestamp": "2026-01-18T13:35:44.662331",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112612684"
+  "run_id": "21112614556"
 }
