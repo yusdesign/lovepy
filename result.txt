@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 93.9%
-😂 Extra joke: Unix is user friendly. It's just selective about who its friends are.
-⏰ 2026-01-18 20:16:23 UTC
+🎲 Chance: 8.0%
+😂 Funny: What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+⏰ 2026-01-18 20:16:33 UTC
 🔗 https://github.com/yusdesign/lovepy
