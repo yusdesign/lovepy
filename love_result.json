@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.27489205769823344,
+  "chance": 0.11147500555117107,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Finding a good PHP developer is like looking for a needle in a haystack. Or is it a hackstack in a needle?",
-  "timestamp": "2026-01-18T20:19:21.017337",
+  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
+  "timestamp": "2026-01-18T20:19:29.925655",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117995671"
+  "run_id": "21117998667"
 }
