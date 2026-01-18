@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 44.4%
-😂 Joke: Why did Microsoft name their search engine BING? Because It's Not Google.
-⏰ 2026-01-18 17:07:57 UTC
+🎲 Chance: 25.6%
+😂 Funny: The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+⏰ 2026-01-18 17:08:08 UTC
 🔗 https://github.com/yusdesign/lovepy
