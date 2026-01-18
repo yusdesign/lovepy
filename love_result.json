@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.02290443283848176,
+  "chance": 0.15367980287967398,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do Java programmers have to wear glasses? Because they don't C#.",
-  "timestamp": "2026-01-18T14:28:19.591952",
+  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
+  "timestamp": "2026-01-18T14:28:29.293498",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113319786"
+  "run_id": "21113322458"
 }
