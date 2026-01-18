@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6584779303514643,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I love pressing the F5 key. It's refreshing.",
-  "timestamp": "2026-01-18T17:20:47.179231",
+  "level": "SEGFAULT",
+  "chance": 0.10380992817034407,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
+  "timestamp": "2026-01-18T17:20:58.486909",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115643710"
+  "run_id": "21115645565"
 }
