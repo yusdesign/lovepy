@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5372155753026285,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-  "timestamp": "2026-01-18T19:05:13.174154",
+  "level": "SEGFAULT",
+  "chance": 0.009219301895078136,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.",
+  "timestamp": "2026-01-18T19:05:21.434833",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117034928"
+  "run_id": "21117036260"
 }
