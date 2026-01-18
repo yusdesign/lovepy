@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7324444926521807,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'",
-  "timestamp": "2026-01-18T22:33:13.028774",
+  "level": "SEGFAULT",
+  "chance": 0.18418458174496022,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
+  "timestamp": "2026-01-18T22:33:23.237492",
   "repository": "yusdesign/lovepy",
-  "run_id": "21119746760"
+  "run_id": "21119748668"
 }
