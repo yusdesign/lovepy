@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.07970084001763811,
+  "chance": 0.25416650940607366,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.",
-  "timestamp": "2026-01-18T23:45:40.285094",
+  "joke": "!false, (It's funny because it's true)",
+  "timestamp": "2026-01-18T23:45:49.540309",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120697885"
+  "run_id": "21120700477"
 }
