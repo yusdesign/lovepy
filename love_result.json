@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13609736591984467,
+  "chance": 0.048251041628420865,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
-  "timestamp": "2026-01-18T16:46:34.211698",
+  "joke": "QAs consist of 55% water, 30% blood and 15% Jira tickets.",
+  "timestamp": "2026-01-18T16:46:43.486769",
   "repository": "yusdesign/lovepy",
-  "run_id": "21115184349"
+  "run_id": "21115187335"
 }
