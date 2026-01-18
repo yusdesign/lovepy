@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22021655773540616,
+  "chance": 0.08360741587904164,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
-  "timestamp": "2026-01-18T18:35:02.564254",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-18T18:35:12.424976",
   "repository": "yusdesign/lovepy",
-  "run_id": "21116632682"
+  "run_id": "21116634448"
 }
