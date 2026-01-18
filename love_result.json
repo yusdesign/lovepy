@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7024568019241582,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-18T15:29:29.387667",
+  "level": "SEGFAULT",
+  "chance": 0.10578646639562161,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
+  "timestamp": "2026-01-18T15:29:37.865080",
   "repository": "yusdesign/lovepy",
-  "run_id": "21114149259"
+  "run_id": "21114152130"
 }
