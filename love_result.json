@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.008789896667346642,
+  "chance": 0.11966302095343662,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "WINDOWS stands for Will Install Needless Data On Whole System.",
-  "timestamp": "2026-01-18T13:19:32.707454",
+  "joke": "'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'",
+  "timestamp": "2026-01-18T13:19:42.454414",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112402210"
+  "run_id": "21112404151"
 }
