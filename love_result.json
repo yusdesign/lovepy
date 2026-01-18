@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.026881176797953765,
+  "chance": 0.017331794563263503,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A good programmer is someone who always looks both ways before crossing a one-way street.",
-  "timestamp": "2026-01-18T18:47:42.472488",
+  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
+  "timestamp": "2026-01-18T18:47:52.222679",
   "repository": "yusdesign/lovepy",
-  "run_id": "21116799052"
+  "run_id": "21116801568"
 }
