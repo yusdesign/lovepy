@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 90.6%
-😂 Extra joke: Why was the developer bankrupt? He'd used all his cache.
-⏰ 2026-01-18 16:50:52 UTC
+🎲 Chance: 28.8%
+😂 Funny: I used to know a joke about Java, but I run out of memory.
+⏰ 2026-01-18 16:51:03 UTC
 🔗 https://github.com/yusdesign/lovepy
