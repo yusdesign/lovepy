@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22455633705361022,
+  "chance": 0.1463772398754003,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "When your code does not change color automatically, Something's wrong, I can feel it.",
-  "timestamp": "2026-01-18T21:30:42.684491",
+  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
+  "timestamp": "2026-01-18T21:30:54.100065",
   "repository": "yusdesign/lovepy",
-  "run_id": "21118932900"
+  "run_id": "21118934103"
 }
