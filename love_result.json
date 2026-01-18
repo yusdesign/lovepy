@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.43415077203210695,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.",
-  "timestamp": "2026-01-18T19:15:48.210250",
+  "level": "SEGFAULT",
+  "chance": 0.10272692621447099,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-18T19:15:57.782771",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117180272"
+  "run_id": "21117182289"
 }
