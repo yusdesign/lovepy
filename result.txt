@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 88.4%
-😂 Extra joke: Bugs come in through open Windows.
-⏰ 2026-01-18 16:22:08 UTC
+🎲 Chance: 13.4%
+😂 Funny: Debugging is like being the detective in a crime drama where you are also the murderer.
+⏰ 2026-01-18 16:22:20 UTC
 🔗 https://github.com/yusdesign/lovepy
