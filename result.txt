@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.8%
-😂 Extra joke: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
-⏰ 2026-01-18 23:45:09 UTC
+🎲 Chance: 21.5%
+😂 Funny: There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
+⏰ 2026-01-18 23:45:20 UTC
 🔗 https://github.com/yusdesign/lovepy
