@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 93.2%
-😂 Extra joke: What did the Java code say to the C code? A: You've got no class.
-⏰ 2026-01-18 22:39:03 UTC
+🎲 Chance: 27.6%
+😂 Funny: As far as we know, our computer has never had an undetected error.
+⏰ 2026-01-18 22:39:12 UTC
 🔗 https://github.com/yusdesign/lovepy
