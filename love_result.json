@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1284295856794342,
+  "chance": 0.04982158999052577,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.",
-  "timestamp": "2026-01-18T19:43:30.199353",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-18T19:43:42.320996",
   "repository": "yusdesign/lovepy",
-  "run_id": "21117553784"
+  "run_id": "21117555298"
 }
