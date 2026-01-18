@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2699501140138354,
+  "chance": 0.07486871441867715,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-18T15:41:04.972174",
+  "joke": "Programmers are tools for converting caffeine into code.",
+  "timestamp": "2026-01-18T15:41:16.773408",
   "repository": "yusdesign/lovepy",
-  "run_id": "21114311483"
+  "run_id": "21114314820"
 }
