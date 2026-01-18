@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 71.1%
-😂 Extra joke: ASCII stupid question, get a stupid ANSI.
-⏰ 2026-01-18 15:55:05 UTC
+🎲 Chance: 18.5%
+😂 Funny: I've been using Vim for a long time now, mainly because I can't figure out how to exit.
+⏰ 2026-01-18 15:55:15 UTC
 🔗 https://github.com/yusdesign/lovepy
