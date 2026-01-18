@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3294539461452569,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "['hip', 'hip'] (hip hip array!)",
-  "timestamp": "2026-01-18T23:06:02.072985",
+  "level": "SEGFAULT",
+  "chance": 0.14863632658290227,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
+  "timestamp": "2026-01-18T23:06:12.829284",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120171429"
+  "run_id": "21120174055"
 }
