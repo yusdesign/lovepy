@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13723221021127208,
+  "chance": 0.15751349531772463,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
-  "timestamp": "2026-01-18T14:22:01.695129",
+  "joke": "There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.",
+  "timestamp": "2026-01-18T14:22:12.017802",
   "repository": "yusdesign/lovepy",
-  "run_id": "21113233351"
+  "run_id": "21113236705"
 }
