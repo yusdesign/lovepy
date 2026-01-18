@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10654371963362785,
+  "chance": 0.1329879191064468,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "As far as we know, our computer has never had an undetected error.",
-  "timestamp": "2026-01-18T13:05:01.031568",
+  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
+  "timestamp": "2026-01-18T13:05:13.549082",
   "repository": "yusdesign/lovepy",
-  "run_id": "21112201577"
+  "run_id": "21112204058"
 }
