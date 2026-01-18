@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9016579108849659,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-18T23:54:43.997084",
+  "level": "SEGFAULT",
+  "chance": 0.011954146032367441,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "ASCII stupid question, get a stupid ANSI.",
+  "timestamp": "2026-01-18T23:54:53.487875",
   "repository": "yusdesign/lovepy",
-  "run_id": "21120811628"
+  "run_id": "21120813120"
 }
