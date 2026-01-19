@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.06057685389232559,
+  "chance": 0.2693047626411126,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "My attitude isn't bad. It's in beta.",
-  "timestamp": "2026-01-19T11:48:17.125986",
+  "joke": "Never say 'OOPS!' always say 'Ah, Interesting!'",
+  "timestamp": "2026-01-19T11:48:29.542889",
   "repository": "yusdesign/lovepy",
-  "run_id": "21136325459"
+  "run_id": "21136330208"
 }
