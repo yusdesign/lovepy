@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.18147260500426932,
+  "chance": 0.07929887801604918,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
-  "timestamp": "2026-01-19T08:49:43.511735",
+  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
+  "timestamp": "2026-01-19T08:49:53.936361",
   "repository": "yusdesign/lovepy",
-  "run_id": "21131003539"
+  "run_id": "21131007931"
 }
