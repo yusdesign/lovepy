@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 90.2%
-😂 Extra joke: Buy a Pentium 586/200 so you can reboot faster.
-⏰ 2026-01-19 19:16:10 UTC
+🎲 Chance: 17.3%
+😂 Funny: There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+⏰ 2026-01-19 19:16:20 UTC
 🔗 https://github.com/yusdesign/lovepy
