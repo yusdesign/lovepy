@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4644842471774594,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Debugging is like being the detective in a crime drama where you are also the murderer.",
-  "timestamp": "2026-01-19T16:38:53.641854",
+  "level": "SEGFAULT",
+  "chance": 0.292304151462352,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Windows is NOT a virus. Viruses DO something.",
+  "timestamp": "2026-01-19T16:39:07.978343",
   "repository": "yusdesign/lovepy",
-  "run_id": "21145114390"
+  "run_id": "21145119462"
 }
