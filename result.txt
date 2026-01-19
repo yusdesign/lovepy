@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+💖 Python Love Meter
+💖 Python loves you unconditionally! ❤️
 
-🎲 Chance: 14.2%
-😂 Funny: Hardware: The part of a computer that you can kick.
-⏰ 2026-01-19 22:58:46 UTC
+🎲 Chance: 76.3%
+😂 Extra joke: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-19 22:58:55 UTC
 🔗 https://github.com/yusdesign/lovepy
