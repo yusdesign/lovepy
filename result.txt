@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 77.7%
-😂 Extra joke: What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
-⏰ 2026-01-19 02:57:47 UTC
+🎲 Chance: 13.7%
+😂 Funny: The generation of random numbers is too important to be left to chance.
+⏰ 2026-01-19 02:57:56 UTC
 🔗 https://github.com/yusdesign/lovepy
