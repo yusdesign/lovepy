@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.12021975429064369,
+  "chance": 0.08712483904261326,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many programmers does it take to change a lightbulb? None, that's a hardware problem.",
-  "timestamp": "2026-01-19T01:30:00.217118",
+  "joke": "A friend is in a band called 1023Mb. They haven't had a gig yet.",
+  "timestamp": "2026-01-19T01:30:09.234508",
   "repository": "yusdesign/lovepy",
-  "run_id": "21122310396"
+  "run_id": "21122313398"
 }
