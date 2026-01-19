@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23357096897776974,
+  "chance": 0.044171589702081904,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "User error: replace user and press any key to continue.",
-  "timestamp": "2026-01-19T17:24:12.008098",
+  "joke": "Two threads walk into a bar. The barkeeper looks up and yells, 'Hey, I want don't any conditions race like time last!'",
+  "timestamp": "2026-01-19T17:24:23.663175",
   "repository": "yusdesign/lovepy",
-  "run_id": "21146351570"
+  "run_id": "21146355839"
 }
