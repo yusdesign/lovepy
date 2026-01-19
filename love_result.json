@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.02050824939005258,
+  "chance": 0.27537859698367717,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why did the QA cross the road? To ruin everyone's day.",
-  "timestamp": "2026-01-19T05:04:30.472702",
+  "joke": "When Apple employees die, does their life HTML5 in front of their eyes?",
+  "timestamp": "2026-01-19T05:04:42.221806",
   "repository": "yusdesign/lovepy",
-  "run_id": "21125963071"
+  "run_id": "21125965315"
 }
