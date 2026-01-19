@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2613121076818701,
+  "chance": 0.12610268749619946,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.",
-  "timestamp": "2026-01-19T22:06:28.593702",
+  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
+  "timestamp": "2026-01-19T22:06:39.882658",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152668507"
+  "run_id": "21152672456"
 }
