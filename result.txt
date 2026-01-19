@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 85.4%
-😂 Extra joke: I've been using Vim for a long time now, mainly because I can't figure out how to exit.
-⏰ 2026-01-19 19:07:29 UTC
+🎲 Chance: 13.0%
+😂 Funny: An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+⏰ 2026-01-19 19:07:42 UTC
 🔗 https://github.com/yusdesign/lovepy
