@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3564953095256792,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
-  "timestamp": "2026-01-19T18:43:54.542167",
+  "level": "SEGFAULT",
+  "chance": 0.10925428440907892,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "ASCII stupid question, get a stupid ANSI.",
+  "timestamp": "2026-01-19T18:44:04.624342",
   "repository": "yusdesign/lovepy",
-  "run_id": "21148271615"
+  "run_id": "21148276349"
 }
