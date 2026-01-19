@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.023426699804982798,
+  "chance": 0.08215361446661007,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
-  "timestamp": "2026-01-19T07:57:48.185817",
+  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
+  "timestamp": "2026-01-19T07:58:02.304896",
   "repository": "yusdesign/lovepy",
-  "run_id": "21129616767"
+  "run_id": "21129620156"
 }
