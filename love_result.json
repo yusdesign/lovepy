@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.25924794311831123,
+  "chance": 0.06567128445800274,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Computer programmers do it byte by byte.",
-  "timestamp": "2026-01-19T18:30:39.463110",
+  "joke": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.",
+  "timestamp": "2026-01-19T18:30:50.997676",
   "repository": "yusdesign/lovepy",
-  "run_id": "21147969029"
+  "run_id": "21147973874"
 }
