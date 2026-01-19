@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.17473454341434136,
+  "chance": 0.06377844322480286,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "You are making progress if each mistake is a new one.",
-  "timestamp": "2026-01-19T12:54:21.811578",
+  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
+  "timestamp": "2026-01-19T12:54:33.403331",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138242308"
+  "run_id": "21138247780"
 }
