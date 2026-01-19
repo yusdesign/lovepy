@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2910637392077061,
+  "chance": 0.17266055294299998,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-19T04:17:57.206211",
+  "joke": "Real programmers can write assembly code in any language.",
+  "timestamp": "2026-01-19T04:18:06.416028",
   "repository": "yusdesign/lovepy",
-  "run_id": "21125134492"
+  "run_id": "21125137652"
 }
