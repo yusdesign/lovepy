@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 85.7%
-😂 Extra joke: Changed my password to fortnight but apparently that's two week.
-⏰ 2026-01-19 10:06:43 UTC
+🎲 Chance: 3.3%
+😂 Funny: Old C programmers don't die, they're just cast into void.
+⏰ 2026-01-19 10:06:54 UTC
 🔗 https://github.com/yusdesign/lovepy
