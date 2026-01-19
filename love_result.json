@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.521620241016303,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What did the Java code say to the C code? A: You've got no class.",
-  "timestamp": "2026-01-19T22:44:35.218839",
+  "level": "SEGFAULT",
+  "chance": 0.11201189713360138,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-19T22:44:49.772819",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153413908"
+  "run_id": "21153418209"
 }
