@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 10.5%
-😂 Funny: Changed my password to fortnight but apparently that's two week.
-⏰ 2026-01-19 21:56:35 UTC
+🎲 Chance: 69.1%
+😂 Joke: Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.
+⏰ 2026-01-19 21:56:49 UTC
 🔗 https://github.com/yusdesign/lovepy
