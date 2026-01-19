@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 34.6%
-😂 Joke: Don't compute and drive; the life you save may be your own.
-⏰ 2026-01-19 13:59:36 UTC
+🎲 Chance: 0.0%
+😂 Funny: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-19 13:59:48 UTC
 🔗 https://github.com/yusdesign/lovepy
