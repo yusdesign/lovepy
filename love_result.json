@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.17443757789987502,
+  "chance": 0.08607655231773637,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
-  "timestamp": "2026-01-19T22:50:23.234843",
+  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "timestamp": "2026-01-19T22:50:34.500763",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153521613"
+  "run_id": "21153525155"
 }
