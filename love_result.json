@@ -1,10 +1,10 @@
 {
   "level": "LIKE",
-  "chance": 0.5989281217784175,
+  "chance": 0.3788238149506685,
   "emoji": "\ud83e\udd1d",
   "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Debugging is like an onion. There are multiple layers to it, and the more you peel them back.",
-  "timestamp": "2026-01-19T10:01:31.029807",
+  "joke": "ASCII stupid question, get a stupid ANSI.",
+  "timestamp": "2026-01-19T10:01:40.693001",
   "repository": "yusdesign/lovepy",
-  "run_id": "21133150148"
+  "run_id": "21133156830"
 }
