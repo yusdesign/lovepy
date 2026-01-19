@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 88.9%
-😂 Extra joke: Buy a Pentium 586/200 so you can reboot faster.
-⏰ 2026-01-19 10:33:05 UTC
+🎲 Chance: 18.5%
+😂 Funny: Bugs come in through open Windows.
+⏰ 2026-01-19 10:33:17 UTC
 🔗 https://github.com/yusdesign/lovepy
