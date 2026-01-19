@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 89.3%
-😂 Extra joke: 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
-⏰ 2026-01-19 23:55:55 UTC
+🎲 Chance: 2.3%
+😂 Funny: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-19 23:56:08 UTC
 🔗 https://github.com/yusdesign/lovepy
