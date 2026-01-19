@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8679205313075147,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Windows is NOT a virus. Viruses DO something.",
-  "timestamp": "2026-01-19T04:34:40.436419",
+  "level": "SEGFAULT",
+  "chance": 0.04142024577431569,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.",
+  "timestamp": "2026-01-19T04:34:50.963111",
   "repository": "yusdesign/lovepy",
-  "run_id": "21125439262"
+  "run_id": "21125442633"
 }
