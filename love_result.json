@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.20604018322956674,
+  "chance": 0.1161504561582829,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
-  "timestamp": "2026-01-19T16:12:41.053640",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-19T16:12:50.229809",
   "repository": "yusdesign/lovepy",
-  "run_id": "21144363565"
+  "run_id": "21144368826"
 }
