@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 92.3%
-😂 Extra joke: ['hip', 'hip'] (hip hip array!)
-⏰ 2026-01-19 22:38:20 UTC
+🎲 Chance: 4.7%
+😂 Funny: The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
+⏰ 2026-01-19 22:38:33 UTC
 🔗 https://github.com/yusdesign/lovepy
