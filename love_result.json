@@ -1,10 +1,10 @@
 {
   "level": "LIKE",
-  "chance": 0.67431351942037,
+  "chance": 0.5148134732085519,
   "emoji": "\ud83e\udd1d",
   "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.",
-  "timestamp": "2026-01-19T11:13:32.696832",
+  "joke": "Unix is user friendly. It's just very particular about who its friends are.",
+  "timestamp": "2026-01-19T11:13:43.940526",
   "repository": "yusdesign/lovepy",
-  "run_id": "21135349152"
+  "run_id": "21135353782"
 }
