@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 89.8%
-😂 Extra joke: As far as we know, our computer has never had an undetected error.
-⏰ 2026-01-19 20:11:53 UTC
+🎲 Chance: 3.2%
+😂 Funny: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
+⏰ 2026-01-19 20:12:06 UTC
 🔗 https://github.com/yusdesign/lovepy
