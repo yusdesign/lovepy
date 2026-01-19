@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 8.569908638289547e-08,
+  "chance": 0.28576009193251417,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Pirates go 'arg!', computer pirates go 'argv!'",
-  "timestamp": "2026-01-19T13:59:48.582903",
+  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
+  "timestamp": "2026-01-19T13:59:59.208404",
   "repository": "yusdesign/lovepy",
-  "run_id": "21140225745"
+  "run_id": "21140231623"
 }
