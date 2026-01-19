@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 94.9%
-😂 Extra joke: I for one am excited for the days when dereferencing a null pointer causes an aneurysm.
-⏰ 2026-01-19 18:50:54 UTC
+🎲 Chance: 11.0%
+😂 Funny: The Internet: where men are men, women are men, and children are FBI agents.
+⏰ 2026-01-19 18:51:06 UTC
 🔗 https://github.com/yusdesign/lovepy
