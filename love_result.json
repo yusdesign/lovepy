@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2661357417256841,
+  "chance": 0.11064773030998931,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If loving you is ROM I don't wanna read write.",
-  "timestamp": "2026-01-19T04:40:59.280212",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-19T04:41:09.300240",
   "repository": "yusdesign/lovepy",
-  "run_id": "21125551716"
+  "run_id": "21125555086"
 }
