@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.01756186690433026,
+  "chance": 0.08275571318055674,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many Prolog programmers does it take to change a lightbulb? false.",
-  "timestamp": "2026-01-19T13:16:53.256889",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-19T13:17:04.021085",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138906449"
+  "run_id": "21138912163"
 }
