@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4654279579701668,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
-  "timestamp": "2026-01-19T17:34:19.893867",
+  "level": "SEGFAULT",
+  "chance": 0.25329215360579926,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Those who can, do. Those who cannot, teach. Those who cannot teach, HACK!",
+  "timestamp": "2026-01-19T17:34:31.041456",
   "repository": "yusdesign/lovepy",
-  "run_id": "21146612622"
+  "run_id": "21146616539"
 }
