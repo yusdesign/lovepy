@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2649635479888758,
+  "chance": 0.2143314197929883,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
-  "timestamp": "2026-01-19T13:23:42.142155",
+  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
+  "timestamp": "2026-01-19T13:23:53.148555",
   "repository": "yusdesign/lovepy",
-  "run_id": "21139116959"
+  "run_id": "21139122687"
 }
