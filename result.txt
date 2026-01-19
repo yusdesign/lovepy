@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 97.4%
-😂 Extra joke: Why don't jokes work in octal? Because 7 10 11.
-⏰ 2026-01-19 19:24:39 UTC
+🎲 Chance: 23.2%
+😂 Funny: How many Prolog programmers does it take to change a lightbulb? false.
+⏰ 2026-01-19 19:24:48 UTC
 🔗 https://github.com/yusdesign/lovepy
