@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0483013715487467,
+  "chance": 0.29665327473962,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...",
-  "timestamp": "2026-01-19T13:04:20.531615",
+  "joke": "Failure is not an option. It comes bundled with your Microsoft product.",
+  "timestamp": "2026-01-19T13:04:33.920646",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138544441"
+  "run_id": "21138550114"
 }
