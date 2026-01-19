@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 80.4%
-😂 Extra joke: Is reading in the bathroom considered Multi-Tasking.
-⏰ 2026-01-19 22:15:10 UTC
+🎲 Chance: 24.1%
+😂 Funny: .NET was named .NET so that it wouldn't show up in a Unix directory listing.
+⏰ 2026-01-19 22:15:20 UTC
 🔗 https://github.com/yusdesign/lovepy
