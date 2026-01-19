@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 92.9%
-😂 Extra joke: Debugging is like an onion. There are multiple layers to it, and the more you peel them back.
-⏰ 2026-01-19 23:30:37 UTC
+🎲 Chance: 23.2%
+😂 Funny: Press CTRL-ALT-DEL to continue....
+⏰ 2026-01-19 23:30:48 UTC
 🔗 https://github.com/yusdesign/lovepy
