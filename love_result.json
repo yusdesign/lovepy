@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.27624708447541113,
+  "chance": 0.18721545790203253,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Two bytes meet. The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'",
-  "timestamp": "2026-01-19T12:55:08.936480",
+  "joke": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...",
+  "timestamp": "2026-01-19T12:55:19.047566",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138264628"
+  "run_id": "21138270727"
 }
