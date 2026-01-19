@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.18051955640586137,
+  "chance": 0.08039561004122742,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...",
-  "timestamp": "2026-01-19T13:19:00.265354",
+  "joke": "There are two ways to write error-free programs; only the third one works.",
+  "timestamp": "2026-01-19T13:19:11.309742",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138971897"
+  "run_id": "21138977247"
 }
