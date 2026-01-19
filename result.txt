@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.7%
-😂 Extra joke: The Internet: where men are men, women are men, and children are FBI agents.
-⏰ 2026-01-19 17:39:35 UTC
+🎲 Chance: 17.3%
+😂 Funny: Bugs come in through open Windows.
+⏰ 2026-01-19 17:39:46 UTC
 🔗 https://github.com/yusdesign/lovepy

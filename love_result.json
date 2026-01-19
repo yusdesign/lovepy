@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7569603857470693,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
-  "timestamp": "2026-01-19T17:39:35.745319",
+  "level": "SEGFAULT",
+  "chance": 0.17264311238920604,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Bugs come in through open Windows.",
+  "timestamp": "2026-01-19T17:39:46.081741",
   "repository": "yusdesign/lovepy",
-  "run_id": "21146740094"
+  "run_id": "21146745139"
 }
