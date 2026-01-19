@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.18828707626286345,
+  "chance": 0.2609065667938626,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-19T02:45:23.172982",
+  "joke": "If you listen to a UNIX shell, can you hear the C?",
+  "timestamp": "2026-01-19T02:45:34.657674",
   "repository": "yusdesign/lovepy",
-  "run_id": "21123554271"
+  "run_id": "21123557920"
 }
