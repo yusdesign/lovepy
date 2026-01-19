@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7856826748745387,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-19T23:03:01.917403",
+  "level": "SEGFAULT",
+  "chance": 0.05591681741652388,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...",
+  "timestamp": "2026-01-19T23:03:12.394030",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153755749"
+  "run_id": "21153759867"
 }
