@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0314978954198748,
+  "chance": 0.18858506849125067,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Programmers are tools for converting caffeine into code.",
-  "timestamp": "2026-01-19T15:03:33.526037",
+  "joke": "What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.",
+  "timestamp": "2026-01-19T15:03:50.450851",
   "repository": "yusdesign/lovepy",
-  "run_id": "21142238043"
+  "run_id": "21142244150"
 }
