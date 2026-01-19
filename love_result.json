@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10830074563059722,
+  "chance": 0.005207799725096329,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I changed my password to BeefStew but the computer told me it wasn't Stroganoff.",
-  "timestamp": "2026-01-19T14:03:26.406337",
+  "joke": "Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.",
+  "timestamp": "2026-01-19T14:03:39.198747",
   "repository": "yusdesign/lovepy",
-  "run_id": "21140342580"
+  "run_id": "21140348078"
 }
