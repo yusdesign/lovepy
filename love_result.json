@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8628146602021779,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-19T12:37:02.732860",
+  "level": "SEGFAULT",
+  "chance": 0.12487824379375045,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
+  "timestamp": "2026-01-19T12:37:15.858784",
   "repository": "yusdesign/lovepy",
-  "run_id": "21137724004"
+  "run_id": "21137729456"
 }
