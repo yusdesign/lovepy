@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.056776035802798885,
+  "chance": 0.2842717486620048,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-19T01:38:28.003055",
+  "joke": "There are three kinds of lies: Lies, damned lies, and benchmarks.",
+  "timestamp": "2026-01-19T01:38:38.390476",
   "repository": "yusdesign/lovepy",
-  "run_id": "21122456233"
+  "run_id": "21122459263"
 }
