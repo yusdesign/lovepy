@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5615144398340681,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.",
-  "timestamp": "2026-01-19T20:38:50.892736",
+  "level": "SEGFAULT",
+  "chance": 0.17987726180056718,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why don't jokes work in octal? Because 7 10 11.",
+  "timestamp": "2026-01-19T20:39:00.804978",
   "repository": "yusdesign/lovepy",
-  "run_id": "21150839013"
+  "run_id": "21150843994"
 }
