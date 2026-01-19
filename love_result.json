@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.07826325342215723,
+  "chance": 0.12687674966329066,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.",
-  "timestamp": "2026-01-19T17:20:43.188954",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-19T17:20:54.442752",
   "repository": "yusdesign/lovepy",
-  "run_id": "21146260776"
+  "run_id": "21146265901"
 }
