@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 91.4%
-😂 Extra joke: There are 2 types of people: those who can extrapolate from incomplete data sets...
-⏰ 2026-01-19 20:26:03 UTC
+🎲 Chance: 1.0%
+😂 Funny: ASCII stupid question, get a stupid ANSI.
+⏰ 2026-01-19 20:26:17 UTC
 🔗 https://github.com/yusdesign/lovepy
