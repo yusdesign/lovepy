@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2854416285553665,
+  "chance": 0.12915248006725533,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.",
-  "timestamp": "2026-01-19T04:08:25.243589",
+  "joke": "What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.",
+  "timestamp": "2026-01-19T04:08:36.395739",
   "repository": "yusdesign/lovepy",
-  "run_id": "21124971634"
+  "run_id": "21124975156"
 }
