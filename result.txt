@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 82.7%
-😂 Extra joke: I just saw my life flash before my eyes and all I could see was a close tag.
-⏰ 2026-01-19 05:15:11 UTC
+🎲 Chance: 9.5%
+😂 Funny: How come there is no obfuscated Perl contest? Because everyone would win.
+⏰ 2026-01-19 05:15:22 UTC
 🔗 https://github.com/yusdesign/lovepy
