@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+💖 Python Love Meter
+💖 Python loves you unconditionally! ❤️
 
-🎲 Chance: 24.1%
-😂 Funny: Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME
-⏰ 2026-01-19 16:05:50 UTC
+🎲 Chance: 86.0%
+😂 Extra joke: The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+⏰ 2026-01-19 16:06:02 UTC
 🔗 https://github.com/yusdesign/lovepy
