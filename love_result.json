@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.061327017054670474,
+  "chance": 0.2621207682897724,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Microsoft hold a bi-monthly internal \"productive week\" where they use Google instead of Bing.",
-  "timestamp": "2026-01-19T23:35:49.972455",
+  "joke": "Programmer: The ship I boarded crashed and I am dying! Project Manager: Then let's do a quick knowledge transfer session before you go.",
+  "timestamp": "2026-01-19T23:36:00.363824",
   "repository": "yusdesign/lovepy",
-  "run_id": "21154356986"
+  "run_id": "21154360485"
 }
