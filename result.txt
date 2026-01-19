@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 37.6%
-😂 Joke: ['hip', 'hip'] (hip hip array!)
-⏰ 2026-01-19 13:04:58 UTC
+🎲 Chance: 20.2%
+😂 Funny: ASCII stupid question, get a stupid ANSI.
+⏰ 2026-01-19 13:05:10 UTC
 🔗 https://github.com/yusdesign/lovepy
