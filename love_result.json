@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9084368084601441,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Those who can, do. Those who cannot, teach. Those who cannot teach, HACK!",
-  "timestamp": "2026-01-19T16:53:35.311103",
+  "level": "SEGFAULT",
+  "chance": 0.20878248188344184,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "How do you know whether a person is a Vim user? Don't worry, they'll tell you.",
+  "timestamp": "2026-01-19T16:53:48.281630",
   "repository": "yusdesign/lovepy",
-  "run_id": "21145509847"
+  "run_id": "21145515314"
 }
