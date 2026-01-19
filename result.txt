@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 78.5%
-😂 Extra joke: WINDOWS stands for Will Install Needless Data On Whole System.
-⏰ 2026-01-19 14:42:59 UTC
+🎲 Chance: 4.5%
+😂 Funny: Changed my password to fortnight but apparently that's two week.
+⏰ 2026-01-19 14:43:09 UTC
 🔗 https://github.com/yusdesign/lovepy
