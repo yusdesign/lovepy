@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.02127053122026923,
+  "chance": 0.101462103349922,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-01-19T10:18:57.652616",
+  "joke": "You forgot to do your backup 16 days ago. Tomorrow you'll need that version.",
+  "timestamp": "2026-01-19T10:19:10.241053",
   "repository": "yusdesign/lovepy",
-  "run_id": "21133701401"
+  "run_id": "21133708005"
 }
