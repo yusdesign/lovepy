@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8299457965178367,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are II types of people: Those who understand Roman Numerals and those who don't.",
-  "timestamp": "2026-01-19T20:51:29.468930",
+  "level": "SEGFAULT",
+  "chance": 0.07570842586302329,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!",
+  "timestamp": "2026-01-19T20:51:40.129020",
   "repository": "yusdesign/lovepy",
-  "run_id": "21151114085"
+  "run_id": "21151117735"
 }
