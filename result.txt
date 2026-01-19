@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 93.6%
-😂 Extra joke: Why did Microsoft name their search engine BING? Because It's Not Google.
-⏰ 2026-01-19 18:14:03 UTC
+🎲 Chance: 3.2%
+😂 Funny: What do you call eight hobbits? A hobbyte.
+⏰ 2026-01-19 18:14:13 UTC
 🔗 https://github.com/yusdesign/lovepy
