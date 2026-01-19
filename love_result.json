@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10396957742109425,
+  "chance": 0.18160382702680167,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-19T05:14:18.380541",
+  "joke": "A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.",
+  "timestamp": "2026-01-19T05:14:28.421186",
   "repository": "yusdesign/lovepy",
-  "run_id": "21126143896"
+  "run_id": "21126147404"
 }
