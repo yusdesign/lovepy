@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.37414048039011705,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-19T22:14:03.619895",
+  "level": "SEGFAULT",
+  "chance": 0.10344345145715972,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "To understand recursion you must first understand recursion.",
+  "timestamp": "2026-01-19T22:14:13.512680",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152826307"
+  "run_id": "21152831028"
 }
