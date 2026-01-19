@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 97.3%
-😂 Extra joke: Computers are like air conditioners: they stop working when you open Windows.
-⏰ 2026-01-19 19:42:33 UTC
+🎲 Chance: 18.1%
+😂 Funny: Computer analyst to programmer: You start coding. I'll go find out what they want.
+⏰ 2026-01-19 19:42:46 UTC
 🔗 https://github.com/yusdesign/lovepy
