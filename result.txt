@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 77.2%
-😂 Extra joke: Why are you always smiling? That's just my... regular expression.
-⏰ 2026-01-19 14:57:26 UTC
+🎲 Chance: 0.0%
+😂 Funny: Hey! It compiles! Ship it!
+⏰ 2026-01-19 14:57:38 UTC
 🔗 https://github.com/yusdesign/lovepy

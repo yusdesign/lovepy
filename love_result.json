@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7720232007418112,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why are you always smiling? That's just my... regular expression.",
-  "timestamp": "2026-01-19T14:57:26.483685",
+  "level": "SEGFAULT",
+  "chance": 0.0004378032982064184,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Hey! It compiles! Ship it!",
+  "timestamp": "2026-01-19T14:57:38.840755",
   "repository": "yusdesign/lovepy",
-  "run_id": "21142041984"
+  "run_id": "21142048744"
 }
