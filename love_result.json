@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.1267403757093547,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.",
-  "timestamp": "2026-01-19T19:57:55.977296",
+  "level": "LOVE",
+  "chance": 0.9362867513507025,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "ASCII stupid question, get a stupid ANSI.",
+  "timestamp": "2026-01-19T19:58:08.254023",
   "repository": "yusdesign/lovepy",
-  "run_id": "21149942535"
+  "run_id": "21149945784"
 }
