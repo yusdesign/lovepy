@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.01750108882184498,
+  "chance": 0.06135873427420213,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME",
-  "timestamp": "2026-01-19T01:32:15.715885",
+  "joke": "I for one am excited for the days when dereferencing a null pointer causes an aneurysm.",
+  "timestamp": "2026-01-19T01:32:27.289975",
   "repository": "yusdesign/lovepy",
-  "run_id": "21122348829"
+  "run_id": "21122352397"
 }
