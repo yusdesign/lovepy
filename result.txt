@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 48.5%
-😂 Joke: Windows is NOT a virus. Viruses DO something.
-⏰ 2026-01-19 14:23:45 UTC
+🎲 Chance: 8.2%
+😂 Funny: I for one am excited for the days when dereferencing a null pointer causes an aneurysm.
+⏰ 2026-01-19 14:23:56 UTC
 🔗 https://github.com/yusdesign/lovepy
