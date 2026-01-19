@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5014015464532924,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "The program is absolutely right; therefore the computer must be wrong.",
-  "timestamp": "2026-01-19T15:53:43.841299",
+  "level": "SEGFAULT",
+  "chance": 0.02712734446807119,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.",
+  "timestamp": "2026-01-19T15:53:55.363492",
   "repository": "yusdesign/lovepy",
-  "run_id": "21143777450"
+  "run_id": "21143782579"
 }
