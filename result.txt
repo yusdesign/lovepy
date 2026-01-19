@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 35.7%
-😂 Joke: Sympathy for the Devil is really just about being nice to QAs.
-⏰ 2026-01-19 03:13:29 UTC
+🎲 Chance: 12.6%
+😂 Funny: Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME
+⏰ 2026-01-19 03:13:40 UTC
 🔗 https://github.com/yusdesign/lovepy
