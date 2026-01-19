@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.26149169050831145,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "You never finish a program, you just stop working on it.",
-  "timestamp": "2026-01-19T17:02:10.594661",
+  "level": "LOVE",
+  "chance": 0.7232545243492652,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "Why do Java programmers have to wear glasses? Because they don't C#.",
+  "timestamp": "2026-01-19T17:02:20.410522",
   "repository": "yusdesign/lovepy",
-  "run_id": "21145750570"
+  "run_id": "21145755673"
 }
