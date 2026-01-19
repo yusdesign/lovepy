@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 74.6%
-😂 Extra joke: Hardware: The part of a computer that you can kick.
-⏰ 2026-01-19 18:11:37 UTC
+🎲 Chance: 9.9%
+😂 Funny: There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+⏰ 2026-01-19 18:11:47 UTC
 🔗 https://github.com/yusdesign/lovepy
