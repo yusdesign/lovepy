@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2964663047359055,
+  "chance": 0.2814708418845221,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Failure is not an option. It comes bundled with your Microsoft product.",
-  "timestamp": "2026-01-19T07:37:45.624006",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-19T07:37:56.798255",
   "repository": "yusdesign/lovepy",
-  "run_id": "21129125693"
+  "run_id": "21129130895"
 }
