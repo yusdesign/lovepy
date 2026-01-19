@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4601932555808108,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.",
-  "timestamp": "2026-01-19T08:10:28.161070",
+  "level": "SEGFAULT",
+  "chance": 0.098807322816716,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
+  "timestamp": "2026-01-19T08:10:41.482824",
   "repository": "yusdesign/lovepy",
-  "run_id": "21129940928"
+  "run_id": "21129946863"
 }
