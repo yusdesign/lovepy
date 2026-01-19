@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.32765727554708923,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I used to know a joke about Java, but I run out of memory.",
-  "timestamp": "2026-01-19T05:17:15.922802",
+  "level": "SEGFAULT",
+  "chance": 0.15010595154901618,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do you always use i and j variales in loops? It's the law......",
+  "timestamp": "2026-01-19T05:17:25.249092",
   "repository": "yusdesign/lovepy",
-  "run_id": "21126202082"
+  "run_id": "21126205399"
 }
