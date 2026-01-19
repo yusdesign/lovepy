@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22261467797466827,
+  "chance": 0.1475217316332197,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Have you heard about the new Cray super computer? It's so fast, it executes an infinite loop in 6 seconds.",
-  "timestamp": "2026-01-19T04:23:50.174375",
+  "joke": "Why don't jokes work in octal? Because 7 10 11.",
+  "timestamp": "2026-01-19T04:23:59.843016",
   "repository": "yusdesign/lovepy",
-  "run_id": "21125239920"
+  "run_id": "21125242900"
 }
