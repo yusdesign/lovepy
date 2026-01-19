@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22439245128745555,
+  "chance": 0.12569558013506543,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Java: Write once, run away.",
-  "timestamp": "2026-01-19T22:02:26.032163",
+  "joke": "A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. \"The year is 9999. You know COBOL, right?\"",
+  "timestamp": "2026-01-19T22:02:36.578817",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152584937"
+  "run_id": "21152588096"
 }
