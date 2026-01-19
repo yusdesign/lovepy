@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 63.1%
-😂 Joke: Software developers like to solve problems. If there are no problems handily available, they will create their own.
-⏰ 2026-01-19 21:58:29 UTC
+🎲 Chance: 15.5%
+😂 Funny: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+⏰ 2026-01-19 21:58:41 UTC
 🔗 https://github.com/yusdesign/lovepy
