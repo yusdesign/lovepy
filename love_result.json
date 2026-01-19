@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.28258204002433196,
+  "chance": 0.08806921128859346,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "My attitude isn't bad. It's in beta.",
-  "timestamp": "2026-01-19T22:53:02.441869",
+  "joke": "A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.",
+  "timestamp": "2026-01-19T22:53:14.974258",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153573547"
+  "run_id": "21153576291"
 }
