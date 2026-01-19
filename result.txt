@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 82.4%
-😂 Extra joke: Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.
-⏰ 2026-01-19 20:58:02 UTC
+🎲 Chance: 17.4%
+😂 Funny: When your hammer is C++, everything begins to look like a thumb.
+⏰ 2026-01-19 20:58:12 UTC
 🔗 https://github.com/yusdesign/lovepy
