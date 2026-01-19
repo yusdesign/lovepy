@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23344277275742986,
+  "chance": 0.0974792445061946,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do sin and tan work? Just cos.",
-  "timestamp": "2026-01-19T18:52:04.590727",
+  "joke": "Ubuntu users are apt to get this joke.",
+  "timestamp": "2026-01-19T18:52:13.839478",
   "repository": "yusdesign/lovepy",
-  "run_id": "21148451900"
+  "run_id": "21148456259"
 }
