@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 86.6%
-😂 Extra joke: Buy a Pentium 586/200 so you can reboot faster.
-⏰ 2026-01-19 03:14:45 UTC
+🎲 Chance: 24.3%
+😂 Funny: How come there is no obfuscated Perl contest? Because everyone would win.
+⏰ 2026-01-19 03:14:57 UTC
 🔗 https://github.com/yusdesign/lovepy
