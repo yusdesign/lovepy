@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 89.5%
-😂 Extra joke: What did the router say to the doctor? It hurts when IP.
-⏰ 2026-01-19 07:11:32 UTC
+🎲 Chance: 4.7%
+😂 Funny: Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME
+⏰ 2026-01-19 07:11:45 UTC
 🔗 https://github.com/yusdesign/lovepy
