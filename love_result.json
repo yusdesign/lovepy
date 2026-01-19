@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4478616835426116,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why don't jokes work in octal? Because 7 10 11.",
-  "timestamp": "2026-01-19T22:29:30.277157",
+  "level": "SEGFAULT",
+  "chance": 0.21139195109964481,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.",
+  "timestamp": "2026-01-19T22:29:41.915383",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153129223"
+  "run_id": "21153132002"
 }
