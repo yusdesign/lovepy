@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 74.6%
-😂 Extra joke: In C we had to code our own bugs. In C++ we can inherit them.
-⏰ 2026-01-19 20:42:04 UTC
+🎲 Chance: 11.3%
+😂 Funny: How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+⏰ 2026-01-19 20:42:17 UTC
 🔗 https://github.com/yusdesign/lovepy
