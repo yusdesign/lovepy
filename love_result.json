@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13921698854008513,
+  "chance": 0.12248419903970886,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
-  "timestamp": "2026-01-19T12:13:48.963810",
+  "joke": "['hip', 'hip'] (hip hip array!)",
+  "timestamp": "2026-01-19T12:14:00.192090",
   "repository": "yusdesign/lovepy",
-  "run_id": "21137055713"
+  "run_id": "21137062271"
 }
