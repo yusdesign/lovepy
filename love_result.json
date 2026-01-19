@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9804436725886022,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
-  "timestamp": "2026-01-19T19:50:57.091120",
+  "level": "SEGFAULT",
+  "chance": 0.2880738005699891,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Sympathy for the Devil is really just about being nice to QAs.",
+  "timestamp": "2026-01-19T19:51:08.147873",
   "repository": "yusdesign/lovepy",
-  "run_id": "21149795722"
+  "run_id": "21149799869"
 }
