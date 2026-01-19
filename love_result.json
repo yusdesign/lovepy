@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9464634308850498,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Windows is NOT a virus. Viruses DO something.",
-  "timestamp": "2026-01-19T13:40:48.516296",
+  "level": "SEGFAULT",
+  "chance": 0.19364600619691008,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Debugging is like an onion. There are multiple layers to it, and the more you peel them back.",
+  "timestamp": "2026-01-19T13:40:58.772932",
   "repository": "yusdesign/lovepy",
-  "run_id": "21139640626"
+  "run_id": "21139646709"
 }
