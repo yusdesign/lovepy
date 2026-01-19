@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9172207515875641,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "How do you know whether a person is a Vim user? Don't worry, they'll tell you.",
-  "timestamp": "2026-01-19T15:55:59.464057",
+  "level": "SEGFAULT",
+  "chance": 0.1454159710415508,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.",
+  "timestamp": "2026-01-19T15:56:12.166295",
   "repository": "yusdesign/lovepy",
-  "run_id": "21143844108"
+  "run_id": "21143850619"
 }

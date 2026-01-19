@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 91.7%
-😂 Extra joke: How do you know whether a person is a Vim user? Don't worry, they'll tell you.
-⏰ 2026-01-19 15:55:59 UTC
+🎲 Chance: 14.5%
+😂 Funny: 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
+⏰ 2026-01-19 15:56:12 UTC
 🔗 https://github.com/yusdesign/lovepy
