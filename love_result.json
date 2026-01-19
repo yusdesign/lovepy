@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3896926964405948,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
-  "timestamp": "2026-01-19T21:55:52.230453",
+  "level": "SEGFAULT",
+  "chance": 0.06654721077629377,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What's the object-oriented way to become wealthy? Inheritance.",
+  "timestamp": "2026-01-19T21:56:04.007919",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152459794"
+  "run_id": "21152462361"
 }
