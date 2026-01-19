@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2248889912821589,
+  "chance": 0.17156489881112746,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "When your code does not change color automatically, Something's wrong, I can feel it.",
-  "timestamp": "2026-01-19T08:22:45.312546",
+  "joke": "What's the object-oriented way to become wealthy? Inheritance.",
+  "timestamp": "2026-01-19T08:22:57.987532",
   "repository": "yusdesign/lovepy",
-  "run_id": "21130263508"
+  "run_id": "21130268415"
 }
