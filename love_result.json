@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.11306619049718192,
+  "chance": 0.129898772850085,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-19T17:38:42.569518",
+  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
+  "timestamp": "2026-01-19T17:38:53.463467",
   "repository": "yusdesign/lovepy",
-  "run_id": "21146717599"
+  "run_id": "21146723298"
 }
