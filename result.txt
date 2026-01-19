@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 42.0%
-😂 Joke: In C we had to code our own bugs. In C++ we can inherit them.
-⏰ 2026-01-19 22:40:25 UTC
+🎲 Chance: 3.8%
+😂 Funny: What do you call a parrot that says "Squawk! Pieces of nine! Pieces of nine!"? A parrot-ey error.
+⏰ 2026-01-19 22:40:36 UTC
 🔗 https://github.com/yusdesign/lovepy
