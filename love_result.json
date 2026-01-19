@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.05591681741652388,
+  "chance": 0.21737955980651347,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...",
-  "timestamp": "2026-01-19T23:03:12.394030",
+  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
+  "timestamp": "2026-01-19T23:03:24.870647",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153759867"
+  "run_id": "21153763402"
 }
