@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 73.8%
-😂 Extra joke: How come there is no obfuscated Perl contest? Because everyone would win.
-⏰ 2026-01-19 08:55:36 UTC
+🎲 Chance: 25.9%
+😂 Funny: How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+⏰ 2026-01-19 08:55:48 UTC
 🔗 https://github.com/yusdesign/lovepy
