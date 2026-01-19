@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 67.1%
-😂 Joke: Warning, keyboard not found. Press Enter to continue.
-⏰ 2026-01-19 18:13:41 UTC
+🎲 Chance: 28.6%
+😂 Funny: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-19 18:13:52 UTC
 🔗 https://github.com/yusdesign/lovepy
