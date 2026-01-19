@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2849668892297067,
+  "chance": 0.26425452235292657,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do Java programmers have to wear glasses? Because they don't see sharp.",
-  "timestamp": "2026-01-19T20:56:50.113675",
+  "joke": "You don't have to know how the computer works, just how to work the computer.",
+  "timestamp": "2026-01-19T20:57:02.622298",
   "repository": "yusdesign/lovepy",
-  "run_id": "21151229859"
+  "run_id": "21151233957"
 }
