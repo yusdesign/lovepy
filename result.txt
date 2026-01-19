@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 78.2%
-😂 Extra joke: Java: Write once, run away.
-⏰ 2026-01-19 12:51:14 UTC
+🎲 Chance: 14.7%
+😂 Funny: If you listen to a UNIX shell, can you hear the C?
+⏰ 2026-01-19 12:51:25 UTC
 🔗 https://github.com/yusdesign/lovepy
