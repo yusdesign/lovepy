@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8731246373489648,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "When Apple employees die, does their life HTML5 in front of their eyes?",
-  "timestamp": "2026-01-19T20:27:33.693446",
+  "level": "SEGFAULT",
+  "chance": 0.2071860438364026,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "timestamp": "2026-01-19T20:27:43.719699",
   "repository": "yusdesign/lovepy",
-  "run_id": "21150597797"
+  "run_id": "21150601731"
 }
