@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6553733638764617,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "When your hammer is C++, everything begins to look like a thumb.",
-  "timestamp": "2026-01-19T15:10:58.833452",
+  "level": "SEGFAULT",
+  "chance": 0.02017876312959166,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Buy a Pentium 586/200 so you can reboot faster.",
+  "timestamp": "2026-01-19T15:11:11.374124",
   "repository": "yusdesign/lovepy",
-  "run_id": "21142474846"
+  "run_id": "21142480893"
 }
