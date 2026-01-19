@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 86.8%
-😂 Extra joke: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
-⏰ 2026-01-19 22:55:49 UTC
+🎲 Chance: 11.9%
+😂 Funny: What's the object-oriented way to become wealthy? Inheritance.
+⏰ 2026-01-19 22:55:59 UTC
 🔗 https://github.com/yusdesign/lovepy
