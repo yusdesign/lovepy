@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2829635894626785,
+  "chance": 0.015458512148859294,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The computer is mightier than the pen, the sword, and usually, the programmer",
-  "timestamp": "2026-01-19T16:57:08.849958",
+  "joke": "There are three kinds of people: those who can count and those who can't.",
+  "timestamp": "2026-01-19T16:57:21.096186",
   "repository": "yusdesign/lovepy",
-  "run_id": "21145606762"
+  "run_id": "21145613072"
 }
