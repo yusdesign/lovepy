@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.6%
-😂 Extra joke: Programmers are tools for converting caffeine into code.
-⏰ 2026-01-19 23:30:03 UTC
+🎲 Chance: 26.7%
+😂 Funny: Bugs come in through open Windows.
+⏰ 2026-01-19 23:30:14 UTC
 🔗 https://github.com/yusdesign/lovepy
