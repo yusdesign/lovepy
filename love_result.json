@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10925428440907892,
+  "chance": 0.15676572848547488,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "ASCII stupid question, get a stupid ANSI.",
-  "timestamp": "2026-01-19T18:44:04.624342",
+  "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
+  "timestamp": "2026-01-19T18:44:16.718814",
   "repository": "yusdesign/lovepy",
-  "run_id": "21148276349"
+  "run_id": "21148280488"
 }
