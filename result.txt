@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 46.3%
-😂 Joke: Why did Microsoft name their search engine BING? Because It's Not Google.
-⏰ 2026-01-19 11:47:43 UTC
+🎲 Chance: 15.4%
+😂 Funny: To understand recursion you must first understand recursion.
+⏰ 2026-01-19 11:47:55 UTC
 🔗 https://github.com/yusdesign/lovepy
