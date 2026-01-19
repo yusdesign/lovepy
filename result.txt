@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 70.5%
-😂 Extra joke: There are three kinds of lies: Lies, damned lies, and benchmarks.
-⏰ 2026-01-19 01:20:12 UTC
+🎲 Chance: 0.2%
+😂 Funny: Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.
+⏰ 2026-01-19 01:20:22 UTC
 🔗 https://github.com/yusdesign/lovepy
