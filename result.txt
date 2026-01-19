@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 72.2%
-😂 Extra joke: There are II types of people: Those who understand Roman Numerals and those who don't.
-⏰ 2026-01-19 06:52:04 UTC
+🎲 Chance: 22.6%
+😂 Funny: Debugging is like being the detective in a crime drama where you are also the murderer.
+⏰ 2026-01-19 06:52:15 UTC
 🔗 https://github.com/yusdesign/lovepy
