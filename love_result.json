@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.28068020302958974,
+  "chance": 0.19493210534567496,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-19T02:01:16.557406",
+  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
+  "timestamp": "2026-01-19T02:01:29.116780",
   "repository": "yusdesign/lovepy",
-  "run_id": "21122839380"
+  "run_id": "21122842350"
 }
