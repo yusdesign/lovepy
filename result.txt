@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 98.3%
-😂 Extra joke: How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.
-⏰ 2026-01-19 15:17:47 UTC
+🎲 Chance: 21.2%
+😂 Funny: I haven't lost my mind; it's backed up on tape somewhere.
+⏰ 2026-01-19 15:18:00 UTC
 🔗 https://github.com/yusdesign/lovepy
