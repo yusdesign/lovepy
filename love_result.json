@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1817223600725073,
+  "chance": 0.16230931450677688,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
-  "timestamp": "2026-01-19T01:36:50.871706",
+  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
+  "timestamp": "2026-01-19T01:37:00.686652",
   "repository": "yusdesign/lovepy",
-  "run_id": "21122427575"
+  "run_id": "21122430707"
 }
