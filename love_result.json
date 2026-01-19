@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0785376167525762,
+  "chance": 0.29298050020960087,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Changed my password to fortnight but apparently that's two week.",
-  "timestamp": "2026-01-19T02:42:00.588911",
+  "joke": "What did the router say to the doctor? It hurts when IP.",
+  "timestamp": "2026-01-19T02:42:13.896434",
   "repository": "yusdesign/lovepy",
-  "run_id": "21123498214"
+  "run_id": "21123501156"
 }
