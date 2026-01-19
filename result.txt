@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 87.1%
-😂 Extra joke: Programming is 10% science, 20% ingenuity, and 70% getting the ingenuity to work with the science.
-⏰ 2026-01-19 09:37:28 UTC
+🎲 Chance: 53.1%
+😂 Joke: The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
+⏰ 2026-01-19 09:37:38 UTC
 🔗 https://github.com/yusdesign/lovepy
