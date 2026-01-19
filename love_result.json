@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22426524050851926,
+  "chance": 0.11300633390197468,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
-  "timestamp": "2026-01-19T12:30:50.211876",
+  "joke": "3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.",
+  "timestamp": "2026-01-19T12:31:01.966644",
   "repository": "yusdesign/lovepy",
-  "run_id": "21137545312"
+  "run_id": "21137550246"
 }
