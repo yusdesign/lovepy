@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 91.4%
-😂 Extra joke: Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.
-⏰ 2026-01-19 07:54:30 UTC
+🎲 Chance: 20.1%
+😂 Funny: Why do sin and tan work? Just cos.
+⏰ 2026-01-19 07:54:41 UTC
 🔗 https://github.com/yusdesign/lovepy
