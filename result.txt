@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 96.8%
-😂 Extra joke: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
-⏰ 2026-01-19 19:25:56 UTC
+🎲 Chance: 0.5%
+😂 Funny: I would tell you a joke about UDP, but you would never get it.
+⏰ 2026-01-19 19:26:06 UTC
 🔗 https://github.com/yusdesign/lovepy
