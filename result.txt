@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 92.7%
-😂 Extra joke: 'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
-⏰ 2026-01-19 03:52:20 UTC
+🎲 Chance: 0.9%
+😂 Funny: The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
+⏰ 2026-01-19 03:52:31 UTC
 🔗 https://github.com/yusdesign/lovepy
