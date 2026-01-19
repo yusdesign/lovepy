@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4571767359385205,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.",
-  "timestamp": "2026-01-19T23:20:55.031985",
+  "level": "SEGFAULT",
+  "chance": 0.13063906126960168,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why don't jokes work in octal? Because 7 10 11.",
+  "timestamp": "2026-01-19T23:21:04.381485",
   "repository": "yusdesign/lovepy",
-  "run_id": "21154089539"
+  "run_id": "21154093263"
 }
