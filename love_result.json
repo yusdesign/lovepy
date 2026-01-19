@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.08912949134816128,
+  "chance": 0.219045209741756,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-19T19:23:32.924007",
+  "joke": "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he",
+  "timestamp": "2026-01-19T19:23:43.804182",
   "repository": "yusdesign/lovepy",
-  "run_id": "21149182286"
+  "run_id": "21149184772"
 }
