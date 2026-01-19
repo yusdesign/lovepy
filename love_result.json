@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23051806040053602,
+  "chance": 0.05739433368236968,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
-  "timestamp": "2026-01-19T22:43:28.543860",
+  "joke": "A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.",
+  "timestamp": "2026-01-19T22:43:39.583581",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153393365"
+  "run_id": "21153397726"
 }
