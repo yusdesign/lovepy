@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 79.1%
-😂 Extra joke: How do you know whether a person is a Vim user? Don't worry, they'll tell you.
-⏰ 2026-01-19 04:12:32 UTC
+🎲 Chance: 7.2%
+😂 Funny: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+⏰ 2026-01-19 04:12:47 UTC
 🔗 https://github.com/yusdesign/lovepy
