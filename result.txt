@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 87.1%
-😂 Extra joke: How an engineer writes a program: Start by debugging an empty file...
-⏰ 2026-01-19 18:20:15 UTC
+🎲 Chance: 5.7%
+😂 Funny: !false, (It's funny because it's true)
+⏰ 2026-01-19 18:20:27 UTC
 🔗 https://github.com/yusdesign/lovepy

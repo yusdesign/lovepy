@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8714348126261409,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "How an engineer writes a program: Start by debugging an empty file...",
-  "timestamp": "2026-01-19T18:20:15.147627",
+  "level": "SEGFAULT",
+  "chance": 0.05651500839061019,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "!false, (It's funny because it's true)",
+  "timestamp": "2026-01-19T18:20:27.639376",
   "repository": "yusdesign/lovepy",
-  "run_id": "21147727144"
+  "run_id": "21147731204"
 }
