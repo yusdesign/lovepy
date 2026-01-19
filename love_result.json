@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.17312417432624594,
+  "chance": 0.04656105885201689,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The generation of random numbers is too important to be left to chance.",
-  "timestamp": "2026-01-19T11:07:14.246094",
+  "joke": "Software salesmen and used-car salesmen differ in that the latter know when they are lying.",
+  "timestamp": "2026-01-19T11:07:25.882802",
   "repository": "yusdesign/lovepy",
-  "run_id": "21135161625"
+  "run_id": "21135168411"
 }
