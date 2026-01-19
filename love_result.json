@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.14609573863513947,
+  "chance": 0.24855443994445892,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
-  "timestamp": "2026-01-19T23:01:55.359801",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-19T23:02:07.772503",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153733197"
+  "run_id": "21153736603"
 }
