@@ -1,7 +1,7 @@
 💔 Python Love Meter
 💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 28.3%
-😂 Funny: A user friendly computer first requires a friendly user.
-⏰ 2026-01-19 14:26:21 UTC
+🎲 Chance: 19.5%
+😂 Funny: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-19 14:26:40 UTC
 🔗 https://github.com/yusdesign/lovepy
