@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.20038994959984535,
+  "chance": 0.29803254620868846,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-19T13:31:25.872980",
+  "joke": "Microsoft hold a bi-monthly internal \"productive week\" where they use Google instead of Bing.",
+  "timestamp": "2026-01-19T13:31:38.389256",
   "repository": "yusdesign/lovepy",
-  "run_id": "21139351226"
+  "run_id": "21139358326"
 }
