@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 46.6%
-😂 Joke: Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.
-⏰ 2026-01-19 22:32:38 UTC
+🎲 Chance: 0.5%
+😂 Funny: The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+⏰ 2026-01-19 22:32:48 UTC
 🔗 https://github.com/yusdesign/lovepy
