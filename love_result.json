@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5561352701147233,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I've been using Vim for a long time now, mainly because I can't figure out how to exit.",
-  "timestamp": "2026-01-19T00:11:26.388858",
+  "level": "SEGFAULT",
+  "chance": 0.1923559564057309,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do Java programmers have to wear glasses? Because they don't see sharp.",
+  "timestamp": "2026-01-19T00:11:36.025208",
   "repository": "yusdesign/lovepy",
-  "run_id": "21121042128"
+  "run_id": "21121045427"
 }
