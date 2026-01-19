@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.00881538038288765,
+  "chance": 0.2654977175208323,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-19T11:23:00.534436",
+  "joke": "Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.",
+  "timestamp": "2026-01-19T11:23:11.788667",
   "repository": "yusdesign/lovepy",
-  "run_id": "21135616674"
+  "run_id": "21135623229"
 }
