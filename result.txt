@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 76.9%
-😂 Extra joke: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
-⏰ 2026-01-19 22:22:02 UTC
+🎲 Chance: 23.5%
+😂 Funny: Sympathy for the Devil is really just about being nice to QAs.
+⏰ 2026-01-19 22:22:12 UTC
 🔗 https://github.com/yusdesign/lovepy
