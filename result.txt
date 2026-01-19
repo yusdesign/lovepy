@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 30.1%
-😂 Joke: The generation of random numbers is too important to be left to chance.
-⏰ 2026-01-19 11:49:41 UTC
+🎲 Chance: 10.9%
+😂 Funny: I just saw my life flash before my eyes and all I could see was a close tag.
+⏰ 2026-01-19 11:49:53 UTC
 🔗 https://github.com/yusdesign/lovepy
