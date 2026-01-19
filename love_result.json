@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.05837617077604185,
+  "chance": 0.22624493150380642,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'",
-  "timestamp": "2026-01-19T20:47:47.215971",
+  "joke": "!false, (It's funny because it's true)",
+  "timestamp": "2026-01-19T20:48:01.137881",
   "repository": "yusdesign/lovepy",
-  "run_id": "21151034207"
+  "run_id": "21151037897"
 }
