@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 49.2%
-😂 Joke: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
-⏰ 2026-01-19 18:12:13 UTC
+🎲 Chance: 10.0%
+😂 Funny: Software salesmen and used-car salesmen differ in that the latter know when they are lying.
+⏰ 2026-01-19 18:12:26 UTC
 🔗 https://github.com/yusdesign/lovepy
