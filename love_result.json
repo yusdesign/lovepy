@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.20371659882360416,
+  "chance": 0.13798708332006993,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-19T18:36:09.505657",
+  "joke": "Buy a Pentium 586/200 so you can reboot faster.",
+  "timestamp": "2026-01-19T18:36:22.164735",
   "repository": "yusdesign/lovepy",
-  "run_id": "21148096941"
+  "run_id": "21148100959"
 }
