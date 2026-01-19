@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 45.7%
-😂 Joke: Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME
-⏰ 2026-01-19 11:41:28 UTC
+🎲 Chance: 15.5%
+😂 Funny: There are only 10 types of people in this world: those who understand binary, and those who don't.
+⏰ 2026-01-19 11:41:39 UTC
 🔗 https://github.com/yusdesign/lovepy
