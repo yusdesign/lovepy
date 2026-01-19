@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 64.6%
-😂 Joke: Computers are like air conditioners: they stop working when you open Windows.
-⏰ 2026-01-19 00:35:36 UTC
+🎲 Chance: 16.1%
+😂 Funny: User error: replace user and press any key to continue.
+⏰ 2026-01-19 00:35:46 UTC
 🔗 https://github.com/yusdesign/lovepy

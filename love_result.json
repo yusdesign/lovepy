@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6463075940455969,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
-  "timestamp": "2026-01-19T00:35:36.174913",
+  "level": "SEGFAULT",
+  "chance": 0.16074479573235068,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "User error: replace user and press any key to continue.",
+  "timestamp": "2026-01-19T00:35:46.989149",
   "repository": "yusdesign/lovepy",
-  "run_id": "21121429451"
+  "run_id": "21121432552"
 }
