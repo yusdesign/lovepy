@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.19615250868750833,
+  "chance": 0.2012395056292121,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do sin and tan work? Just cos.",
-  "timestamp": "2026-01-19T16:17:15.061398",
+  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
+  "timestamp": "2026-01-19T16:17:25.797837",
   "repository": "yusdesign/lovepy",
-  "run_id": "21144498888"
+  "run_id": "21144503954"
 }
