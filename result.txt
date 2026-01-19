@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 57.5%
-😂 Joke: How do you know whether a person is a Vim user? Don't worry, they'll tell you.
-⏰ 2026-01-19 21:13:11 UTC
+🎲 Chance: 5.5%
+😂 Funny: User error: replace user and press any key to continue.
+⏰ 2026-01-19 21:13:22 UTC
 🔗 https://github.com/yusdesign/lovepy
