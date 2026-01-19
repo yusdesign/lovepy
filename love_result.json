@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3272310149521195,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "My favourite computer based band is the Black IPs.",
-  "timestamp": "2026-01-19T10:58:27.144053",
+  "level": "SEGFAULT",
+  "chance": 0.03212396822485275,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Never say 'OOPS!' always say 'Ah, Interesting!'",
+  "timestamp": "2026-01-19T10:58:40.009741",
   "repository": "yusdesign/lovepy",
-  "run_id": "21134896245"
+  "run_id": "21134903344"
 }
