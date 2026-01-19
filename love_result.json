@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.40683849974216313,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Girl: Do you drink? Programmer: No. Girl: Have Girlfriend? Programmer: No. Girl: Then how do you enjoy life? Programmer: I am Programmer",
-  "timestamp": "2026-01-19T21:52:55.394392",
+  "level": "SEGFAULT",
+  "chance": 0.03950989944857841,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "WINDOWS stands for Will Install Needless Data On Whole System.",
+  "timestamp": "2026-01-19T21:53:06.595491",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152403119"
+  "run_id": "21152407127"
 }
