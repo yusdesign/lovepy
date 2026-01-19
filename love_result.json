@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4392701796900159,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "You don't have to know how the computer works, just how to work the computer.",
-  "timestamp": "2026-01-19T20:02:15.799342",
+  "level": "SEGFAULT",
+  "chance": 0.1570095402337428,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
+  "timestamp": "2026-01-19T20:02:26.490982",
   "repository": "yusdesign/lovepy",
-  "run_id": "21150032447"
+  "run_id": "21150036711"
 }
