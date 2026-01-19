@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 60.5%
-😂 Joke: You never finish a program, you just stop working on it.
-⏰ 2026-01-19 22:30:58 UTC
+🎲 Chance: 10.2%
+😂 Funny: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-19 22:31:08 UTC
 🔗 https://github.com/yusdesign/lovepy
