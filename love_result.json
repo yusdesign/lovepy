@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6562730389140213,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Bugs come in through open Windows.",
-  "timestamp": "2026-01-19T12:17:06.885064",
+  "level": "SEGFAULT",
+  "chance": 0.19104111017437286,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do Java programmers have to wear glasses? Because they don't C#.",
+  "timestamp": "2026-01-19T12:17:16.976504",
   "repository": "yusdesign/lovepy",
-  "run_id": "21137153354"
+  "run_id": "21137159662"
 }
