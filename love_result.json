@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2610808666544361,
+  "chance": 0.017421875526267616,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Windows is NOT a virus. Viruses DO something.",
-  "timestamp": "2026-01-19T05:24:27.198023",
+  "joke": "['hip', 'hip'] (hip hip array!)",
+  "timestamp": "2026-01-19T05:24:37.012884",
   "repository": "yusdesign/lovepy",
-  "run_id": "21126335352"
+  "run_id": "21126338292"
 }
