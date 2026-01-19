@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 50.2%
-😂 Joke: The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
-⏰ 2026-01-19 12:29:32 UTC
+🎲 Chance: 27.6%
+😂 Funny: !false, (It's funny because it's true)
+⏰ 2026-01-19 12:29:44 UTC
 🔗 https://github.com/yusdesign/lovepy
