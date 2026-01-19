@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 86.0%
-😂 Extra joke: Why did the programmer quit his job? Because he didn't get arrays.
-⏰ 2026-01-19 09:20:06 UTC
+🎲 Chance: 23.9%
+😂 Funny: Why do programmers prefer dark mode? Because light attracts bugs.
+⏰ 2026-01-19 09:20:19 UTC
 🔗 https://github.com/yusdesign/lovepy

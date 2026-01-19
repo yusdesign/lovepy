@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8600947707039053,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why did the programmer quit his job? Because he didn't get arrays.",
-  "timestamp": "2026-01-19T09:20:06.524487",
+  "level": "SEGFAULT",
+  "chance": 0.23899240653806497,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "timestamp": "2026-01-19T09:20:19.927806",
   "repository": "yusdesign/lovepy",
-  "run_id": "21131898244"
+  "run_id": "21131905624"
 }
