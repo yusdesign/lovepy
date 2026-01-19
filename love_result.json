@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.701942092860212,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why do you always use i and j variales in loops? It's the law......",
-  "timestamp": "2026-01-19T22:02:15.933756",
+  "level": "SEGFAULT",
+  "chance": 0.22439245128745555,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Java: Write once, run away.",
+  "timestamp": "2026-01-19T22:02:26.032163",
   "repository": "yusdesign/lovepy",
-  "run_id": "21152580581"
+  "run_id": "21152584937"
 }
