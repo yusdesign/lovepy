@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6095471303671286,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "You are making progress if each mistake is a new one.",
-  "timestamp": "2026-01-19T13:55:17.511523",
+  "level": "SEGFAULT",
+  "chance": 0.12908997782302456,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
+  "timestamp": "2026-01-19T13:55:30.319029",
   "repository": "yusdesign/lovepy",
-  "run_id": "21140084184"
+  "run_id": "21140090405"
 }
