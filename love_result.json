@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10019651428356291,
+  "chance": 0.13191047714154647,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Debugging is like an onion. There are multiple layers to it, and the more you peel them back.",
-  "timestamp": "2026-01-19T00:33:58.881115",
+  "joke": "All programmers are playwrights, and all computers are lousy actors.",
+  "timestamp": "2026-01-19T00:34:07.836065",
   "repository": "yusdesign/lovepy",
-  "run_id": "21121402797"
+  "run_id": "21121405692"
 }
