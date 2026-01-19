@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7481683331835124,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "You never finish a program, you just stop working on it.",
-  "timestamp": "2026-01-19T20:59:04.710118",
+  "level": "SEGFAULT",
+  "chance": 0.16437783806536888,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.",
+  "timestamp": "2026-01-19T20:59:15.051932",
   "repository": "yusdesign/lovepy",
-  "run_id": "21151274842"
+  "run_id": "21151278873"
 }
