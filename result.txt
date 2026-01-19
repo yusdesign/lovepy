@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 74.6%
-😂 Extra joke: Microsoft hold a bi-monthly internal "productive week" where they use Google instead of Bing.
-⏰ 2026-01-19 13:25:32 UTC
+🎲 Chance: 23.0%
+😂 Funny: To understand recursion you must first understand recursion.
+⏰ 2026-01-19 13:25:43 UTC
 🔗 https://github.com/yusdesign/lovepy
