@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3319960994566683,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-19T00:57:55.775484",
+  "level": "SEGFAULT",
+  "chance": 0.2996073132878262,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME",
+  "timestamp": "2026-01-19T00:58:06.883837",
   "repository": "yusdesign/lovepy",
-  "run_id": "21121785548"
+  "run_id": "21121788333"
 }
