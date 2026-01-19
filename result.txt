@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 84.2%
-😂 Extra joke: What do you call a programmer from Finland? Nerdic.
-⏰ 2026-01-19 06:15:22 UTC
+🎲 Chance: 23.1%
+😂 Funny: As far as we know, our computer has never had an undetected error.
+⏰ 2026-01-19 06:15:32 UTC
 🔗 https://github.com/yusdesign/lovepy
