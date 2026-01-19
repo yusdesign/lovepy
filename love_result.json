@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7119639119624654,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
-  "timestamp": "2026-01-19T19:08:30.218540",
+  "level": "SEGFAULT",
+  "chance": 0.09232977693115518,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "My favourite computer based band is the Black IPs.",
+  "timestamp": "2026-01-19T19:08:39.666376",
   "repository": "yusdesign/lovepy",
-  "run_id": "21148836745"
+  "run_id": "21148841785"
 }
