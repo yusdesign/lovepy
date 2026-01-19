@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 63.6%
-😂 Joke: Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME
-⏰ 2026-01-19 08:32:46 UTC
+🎲 Chance: 9.9%
+😂 Funny: How come there is no obfuscated Perl contest? Because everyone would win.
+⏰ 2026-01-19 08:32:56 UTC
 🔗 https://github.com/yusdesign/lovepy
