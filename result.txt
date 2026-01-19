@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 71.1%
-😂 Extra joke: Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.
-⏰ 2026-01-19 04:55:42 UTC
+🎲 Chance: 23.6%
+😂 Funny: Press CTRL-ALT-DEL to continue....
+⏰ 2026-01-19 04:55:54 UTC
 🔗 https://github.com/yusdesign/lovepy
