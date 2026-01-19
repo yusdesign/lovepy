@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5228566113930504,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "The generation of random numbers is too important to be left to chance.",
-  "timestamp": "2026-01-19T02:55:55.979646",
+  "level": "SEGFAULT",
+  "chance": 0.2538377014159233,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why was the developer bankrupt? He'd used all his cache.",
+  "timestamp": "2026-01-19T02:56:05.722897",
   "repository": "yusdesign/lovepy",
-  "run_id": "21123737241"
+  "run_id": "21123740475"
 }
