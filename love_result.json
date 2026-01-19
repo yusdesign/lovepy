@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.14496049650306242,
+  "chance": 0.05571327300603002,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A Programmer was walking out of door for work, his wife said \"while you're out, buy some milk\" and he never returned.",
-  "timestamp": "2026-01-19T15:49:59.850355",
+  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
+  "timestamp": "2026-01-19T15:50:11.699390",
   "repository": "yusdesign/lovepy",
-  "run_id": "21143663946"
+  "run_id": "21143668555"
 }
