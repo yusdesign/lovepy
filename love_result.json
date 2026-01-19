@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.25129214457427784,
+  "chance": 0.14961461910293083,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Is reading in the bathroom considered Multi-Tasking.",
-  "timestamp": "2026-01-19T02:11:39.394887",
+  "joke": "There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.",
+  "timestamp": "2026-01-19T02:11:49.660709",
   "repository": "yusdesign/lovepy",
-  "run_id": "21123008708"
+  "run_id": "21123011238"
 }
