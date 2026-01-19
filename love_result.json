@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5536512913340027,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "A good programmer is someone who always looks both ways before crossing a one-way street.",
-  "timestamp": "2026-01-19T12:48:20.911563",
+  "level": "SEGFAULT",
+  "chance": 0.20734920736546103,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "When your code does not change color automatically, Something's wrong, I can feel it.",
+  "timestamp": "2026-01-19T12:48:30.677736",
   "repository": "yusdesign/lovepy",
-  "run_id": "21138063303"
+  "run_id": "21138069127"
 }
