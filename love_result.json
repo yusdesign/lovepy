@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.2832468441711794,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If doctors were like software engineers, they would say things like Have you tried killing yourself and being reborn?",
-  "timestamp": "2026-01-19T15:12:16.919285",
+  "level": "LOVE",
+  "chance": 0.8634872951727295,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.",
+  "timestamp": "2026-01-19T15:12:27.986094",
   "repository": "yusdesign/lovepy",
-  "run_id": "21142516017"
+  "run_id": "21142523461"
 }
