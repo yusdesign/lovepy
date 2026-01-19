@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09798793238714898,
+  "chance": 0.196619681115058,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.",
-  "timestamp": "2026-01-19T22:42:46.372856",
+  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
+  "timestamp": "2026-01-19T22:42:56.050977",
   "repository": "yusdesign/lovepy",
-  "run_id": "21153381197"
+  "run_id": "21153384615"
 }
