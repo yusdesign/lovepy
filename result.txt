@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 96.6%
-😂 Extra joke: The C language combines all the power of assembly language with all the ease-of-use of assembly language.
-⏰ 2026-01-19 08:43:13 UTC
+🎲 Chance: 3.0%
+😂 Funny: The Internet: where men are men, women are men, and children are FBI agents.
+⏰ 2026-01-19 08:43:25 UTC
 🔗 https://github.com/yusdesign/lovepy
