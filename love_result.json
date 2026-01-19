@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7265552073717146,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-01-19T23:49:57.904306",
+  "level": "SEGFAULT",
+  "chance": 0.2493887626377006,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
+  "timestamp": "2026-01-19T23:50:10.523673",
   "repository": "yusdesign/lovepy",
-  "run_id": "21154608365"
+  "run_id": "21154610812"
 }
