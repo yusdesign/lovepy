@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8307905086037639,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-19T11:29:42.425350",
+  "level": "SEGFAULT",
+  "chance": 0.021816097413493996,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do Java programmers have to wear glasses? Because they don't C#.",
+  "timestamp": "2026-01-19T11:29:54.065466",
   "repository": "yusdesign/lovepy",
-  "run_id": "21135805259"
+  "run_id": "21135809832"
 }
