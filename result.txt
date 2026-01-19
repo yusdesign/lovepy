@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 83.2%
-😂 Extra joke: My girlfriend dumped me after I named a class after her. She felt I treated her like an object.
-⏰ 2026-01-19 19:38:02 UTC
+🎲 Chance: 29.6%
+😂 Funny: A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.
+⏰ 2026-01-19 19:38:12 UTC
 🔗 https://github.com/yusdesign/lovepy
