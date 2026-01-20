@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8845648154727666,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.",
-  "timestamp": "2026-01-20T18:31:25.880511",
+  "level": "SEGFAULT",
+  "chance": 0.04492064895624892,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-20T18:31:37.437215",
   "repository": "yusdesign/lovepy",
-  "run_id": "21182944988"
+  "run_id": "21182950956"
 }
