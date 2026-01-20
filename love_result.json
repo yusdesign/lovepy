@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8011338148520336,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Bug? That's not a bug, that's a feature.",
-  "timestamp": "2026-01-20T21:12:04.099077",
+  "level": "SEGFAULT",
+  "chance": 0.19406939134288004,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "User error: replace user and press any key to continue.",
+  "timestamp": "2026-01-20T21:12:15.350695",
   "repository": "yusdesign/lovepy",
-  "run_id": "21187403351"
+  "run_id": "21187409871"
 }
