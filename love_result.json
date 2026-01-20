@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5277277904625092,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How many programmers does it take to change a lightbulb? None, that's a hardware problem.",
-  "timestamp": "2026-01-20T16:50:14.309995",
+  "level": "SEGFAULT",
+  "chance": 0.10488208272242772,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-20T16:50:27.850792",
   "repository": "yusdesign/lovepy",
-  "run_id": "21179887253"
+  "run_id": "21179894804"
 }
