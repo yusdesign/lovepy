@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5658576295979147,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Press CTRL-ALT-DEL to continue....",
-  "timestamp": "2026-01-20T14:33:22.160307",
+  "level": "SEGFAULT",
+  "chance": 0.2602961309131394,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "All programmers are playwrights, and all computers are lousy actors.",
+  "timestamp": "2026-01-20T14:33:35.583386",
   "repository": "yusdesign/lovepy",
-  "run_id": "21175303665"
+  "run_id": "21175310324"
 }
