@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5831962271310808,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There were computers in Biblical times. Eve had an Apple.",
-  "timestamp": "2026-01-20T23:26:28.544194",
+  "level": "SEGFAULT",
+  "chance": 0.12378622832347164,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "!false, (It's funny because it's true)",
+  "timestamp": "2026-01-20T23:26:40.262810",
   "repository": "yusdesign/lovepy",
-  "run_id": "21191072954"
+  "run_id": "21191077868"
 }
