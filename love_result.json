@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.15090749370445466,
+  "chance": 0.05844980391606924,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-20T14:26:15.472566",
+  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
+  "timestamp": "2026-01-20T14:26:26.170665",
   "repository": "yusdesign/lovepy",
-  "run_id": "21175066016"
+  "run_id": "21175073581"
 }
