@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7249032882608891,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are 10 types of people: those who understand binary and those who don't.",
-  "timestamp": "2026-01-20T03:41:44.584352",
+  "level": "SEGFAULT",
+  "chance": 0.2917310809682573,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why don't jokes work in octal? Because 7 10 11.",
+  "timestamp": "2026-01-20T03:41:54.999905",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158656401"
+  "run_id": "21158659997"
 }
