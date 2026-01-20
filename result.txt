@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 91.0%
-😂 Extra joke: A programmer walks into a foo...
-⏰ 2026-01-20 14:20:59 UTC
+🎲 Chance: 9.2%
+😂 Funny: If Ruby is not and Perl is the answer, you don't understand the question.
+⏰ 2026-01-20 14:21:14 UTC
 🔗 https://github.com/yusdesign/lovepy
