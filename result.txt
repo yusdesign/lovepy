@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 72.7%
-😂 Extra joke: Waiter: Would you like coffee or tea? Programmer: Yes.
-⏰ 2026-01-20 02:16:42 UTC
+🎲 Chance: 10.1%
+😂 Funny: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+⏰ 2026-01-20 02:16:52 UTC
 🔗 https://github.com/yusdesign/lovepy
