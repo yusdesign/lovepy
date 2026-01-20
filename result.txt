@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 82.2%
-😂 Extra joke: There are two ways to write error-free programs; only the third one works.
-⏰ 2026-01-20 00:58:09 UTC
+🎲 Chance: 25.0%
+😂 Funny: Ubuntu users are apt to get this joke.
+⏰ 2026-01-20 00:58:20 UTC
 🔗 https://github.com/yusdesign/lovepy
