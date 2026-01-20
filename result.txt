@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 84.8%
-😂 Extra joke: Bug? That's not a bug, that's a feature.
-⏰ 2026-01-20 00:43:54 UTC
+🎲 Chance: 2.1%
+😂 Funny: Sympathy for the Devil is really just about being nice to QAs.
+⏰ 2026-01-20 00:44:03 UTC
 🔗 https://github.com/yusdesign/lovepy
