@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6265966756073621,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why do Java programmers have to wear glasses? Because they don't C#.",
-  "timestamp": "2026-01-20T00:45:00.034845",
+  "level": "SEGFAULT",
+  "chance": 0.19163499855703836,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
+  "timestamp": "2026-01-20T00:45:11.324504",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155608553"
+  "run_id": "21155612049"
 }
