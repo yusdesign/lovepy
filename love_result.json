@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5532646854418543,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What do you get when you cross a cat and a dog? Cat dog sin theta.",
-  "timestamp": "2026-01-20T21:45:11.494931",
+  "level": "SEGFAULT",
+  "chance": 0.21381333381257306,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Ubuntu users are apt to get this joke.",
+  "timestamp": "2026-01-20T21:45:21.671069",
   "repository": "yusdesign/lovepy",
-  "run_id": "21188372277"
+  "run_id": "21188378250"
 }
