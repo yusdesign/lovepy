@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.625081538342479,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There are three kinds of people: those who can count and those who can't.",
-  "timestamp": "2026-01-20T15:57:17.687669",
+  "level": "SEGFAULT",
+  "chance": 0.19599410146990415,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do they call this a word processor? It's simple, ... you've seen what food processors do to food, right?",
+  "timestamp": "2026-01-20T15:57:29.402312",
   "repository": "yusdesign/lovepy",
-  "run_id": "21178153709"
+  "run_id": "21178161174"
 }
