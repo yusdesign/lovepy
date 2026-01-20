@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23860626899289383,
+  "chance": 0.08419336718995152,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do they call this a word processor? It's simple, ... you've seen what food processors do to food, right?",
-  "timestamp": "2026-01-20T20:58:22.928039",
+  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
+  "timestamp": "2026-01-20T20:58:35.915856",
   "repository": "yusdesign/lovepy",
-  "run_id": "21186990850"
+  "run_id": "21186996220"
 }
