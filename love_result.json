@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8091695720408038,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "My favourite computer based band is the Black IPs.",
-  "timestamp": "2026-01-20T07:20:06.439189",
+  "level": "SEGFAULT",
+  "chance": 0.2868809047676135,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.",
+  "timestamp": "2026-01-20T07:20:17.819438",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162871589"
+  "run_id": "21162875560"
 }
