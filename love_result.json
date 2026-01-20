@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.16723240594309974,
+  "chance": 0.12326110656750078,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you mean 911 is only for emergencies? I've got a merge conflict.",
-  "timestamp": "2026-01-20T01:10:18.340695",
+  "joke": "The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.",
+  "timestamp": "2026-01-20T01:10:30.653408",
   "repository": "yusdesign/lovepy",
-  "run_id": "21156058017"
+  "run_id": "21156060721"
 }
