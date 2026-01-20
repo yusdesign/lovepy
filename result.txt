@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 73.2%
-😂 Extra joke: Warning, keyboard not found. Press Enter to continue.
-⏰ 2026-01-20 00:24:46 UTC
+🎲 Chance: 17.6%
+😂 Funny: A friend is in a band called 1023Mb. They haven't had a gig yet.
+⏰ 2026-01-20 00:24:58 UTC
 🔗 https://github.com/yusdesign/lovepy
