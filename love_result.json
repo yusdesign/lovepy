@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9584597940003099,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are two ways to write error-free programs; only the third one works.",
-  "timestamp": "2026-01-20T16:58:35.912376",
+  "level": "SEGFAULT",
+  "chance": 0.15097962060419912,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The computer is mightier than the pen, the sword, and usually, the programmer",
+  "timestamp": "2026-01-20T16:58:48.742888",
   "repository": "yusdesign/lovepy",
-  "run_id": "21180154606"
+  "run_id": "21180162382"
 }
