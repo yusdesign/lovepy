@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 4.7%
-😂 Funny: You don't have to know how the computer works, just how to work the computer.
-⏰ 2026-01-20 04:06:00 UTC
+🎲 Chance: 33.9%
+😂 Joke: Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.
+⏰ 2026-01-20 04:06:14 UTC
 🔗 https://github.com/yusdesign/lovepy
