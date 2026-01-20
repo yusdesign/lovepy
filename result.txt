@@ -1,7 +1,7 @@
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 18.2%
-😂 Funny: How come there is no obfuscated Perl contest? Because everyone would win.
-⏰ 2026-01-20 10:37:47 UTC
+🎲 Chance: 54.1%
+😂 Joke: I for one am excited for the days when dereferencing a null pointer causes an aneurysm.
+⏰ 2026-01-20 10:38:01 UTC
 🔗 https://github.com/yusdesign/lovepy
