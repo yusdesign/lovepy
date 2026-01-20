@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4634258474584344,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-01-20T12:58:03.086371",
+  "level": "SEGFAULT",
+  "chance": 0.07488191022015755,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Debugging: Removing the needles from the haystack.",
+  "timestamp": "2026-01-20T12:58:16.956577",
   "repository": "yusdesign/lovepy",
-  "run_id": "21172345333"
+  "run_id": "21172350759"
 }
