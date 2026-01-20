@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1933434076216064,
+  "chance": 0.24952194352101653,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
-  "timestamp": "2026-01-20T00:29:54.589506",
+  "joke": "There are two ways to write error-free programs; only the third one works.",
+  "timestamp": "2026-01-20T00:30:05.782359",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155319956"
+  "run_id": "21155323199"
 }
