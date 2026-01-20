@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8200572249074547,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-20T01:55:46.244880",
+  "level": "SEGFAULT",
+  "chance": 0.016995991109226005,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "How an engineer writes a program: Start by debugging an empty file...",
+  "timestamp": "2026-01-20T01:55:57.152695",
   "repository": "yusdesign/lovepy",
-  "run_id": "21156828349"
+  "run_id": "21156831844"
 }
