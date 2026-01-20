@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.938055773797679,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "You don't have to know how the computer works, just how to work the computer.",
-  "timestamp": "2026-01-20T12:19:16.436550",
+  "level": "SEGFAULT",
+  "chance": 0.04475489529920773,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "When your hammer is C++, everything begins to look like a thumb.",
+  "timestamp": "2026-01-20T12:19:28.640450",
   "repository": "yusdesign/lovepy",
-  "run_id": "21171231058"
+  "run_id": "21171238039"
 }
