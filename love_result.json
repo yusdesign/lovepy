@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6460635503646619,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.",
-  "timestamp": "2026-01-20T00:35:38.729101",
+  "level": "SEGFAULT",
+  "chance": 0.2274887335718102,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
+  "timestamp": "2026-01-20T00:35:51.645714",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155431632"
+  "run_id": "21155434720"
 }
