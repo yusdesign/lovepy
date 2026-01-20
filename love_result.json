@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09582205398689814,
+  "chance": 0.16640645687351197,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.",
-  "timestamp": "2026-01-20T02:28:32.754368",
+  "joke": "How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.",
+  "timestamp": "2026-01-20T02:28:48.874064",
   "repository": "yusdesign/lovepy",
-  "run_id": "21157394095"
+  "run_id": "21157397519"
 }
