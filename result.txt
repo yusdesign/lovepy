@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 53.1%
-😂 Joke: There are three kinds of people: those who can count and those who can't.
-⏰ 2026-01-20 00:50:09 UTC
+🎲 Chance: 10.7%
+😂 Funny: To understand recursion you must first understand recursion.
+⏰ 2026-01-20 00:50:20 UTC
 🔗 https://github.com/yusdesign/lovepy
