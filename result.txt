@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 83.2%
-😂 Extra joke: There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.
-⏰ 2026-01-20 13:28:55 UTC
+🎲 Chance: 6.5%
+😂 Funny: You forgot to do your backup 16 days ago. Tomorrow you'll need that version.
+⏰ 2026-01-20 13:29:10 UTC
 🔗 https://github.com/yusdesign/lovepy
