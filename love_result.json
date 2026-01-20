@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.6830749280513401,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why are you always smiling? That's just my... regular expression.",
-  "timestamp": "2026-01-20T15:48:33.065210",
+  "level": "SEGFAULT",
+  "chance": 0.09440779633424723,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Speed Kills! Use Windows.",
+  "timestamp": "2026-01-20T15:48:43.949595",
   "repository": "yusdesign/lovepy",
-  "run_id": "21177862660"
+  "run_id": "21177870498"
 }
