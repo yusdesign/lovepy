@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5844636331094434,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How come there is no obfuscated Perl contest? Because everyone would win.",
-  "timestamp": "2026-01-20T07:19:24.433402",
+  "level": "SEGFAULT",
+  "chance": 0.1771817508129132,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-20T07:19:33.821655",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162857590"
+  "run_id": "21162861493"
 }
