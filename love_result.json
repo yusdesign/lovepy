@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0940028430387082,
+  "chance": 0.2775822760362985,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
-  "timestamp": "2026-01-20T07:48:27.084080",
+  "joke": "Why don't jokes work in octal? Because 7 10 11.",
+  "timestamp": "2026-01-20T07:48:40.545982",
   "repository": "yusdesign/lovepy",
-  "run_id": "21163522997"
+  "run_id": "21163527350"
 }
