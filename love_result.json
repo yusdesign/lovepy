@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5000422633166441,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "WINDOWS stands for Will Install Needless Data On Whole System.",
-  "timestamp": "2026-01-20T20:36:13.588438",
+  "level": "SEGFAULT",
+  "chance": 0.09855707980268125,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Real programmers can write assembly code in any language.",
+  "timestamp": "2026-01-20T20:36:23.333940",
   "repository": "yusdesign/lovepy",
-  "run_id": "21186347323"
+  "run_id": "21186353490"
 }
