@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5239103962299051,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Changed my password to fortnight but apparently that's two week.",
-  "timestamp": "2026-01-20T15:09:25.030924",
+  "level": "SEGFAULT",
+  "chance": 0.2964646663655893,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Software salesmen and used-car salesmen differ in that the latter know when they are lying.",
+  "timestamp": "2026-01-20T15:09:37.699154",
   "repository": "yusdesign/lovepy",
-  "run_id": "21176538161"
+  "run_id": "21176545718"
 }
