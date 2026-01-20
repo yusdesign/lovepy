@@ -8,13 +8,13 @@ A whimsical Python project that measures "love compatibility" with random calcul
 🤝 Python Love Meter
 🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 37.1%
-😂 Joke: Unix is user friendly. It's just selective about who its friends are.
-⏰ 2026-01-20 17:57:36 UTC
+🎲 Chance: 35.1%
+😂 Joke: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-01-20 17:58:05 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-20 17:57:36 UTC
+**Last Updated:** 2026-01-20 17:58:05 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
