@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1067581444516662,
+  "chance": 0.023195069449384875,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-20T03:25:45.224755",
+  "joke": "There are three kinds of people: those who can count and those who can't.",
+  "timestamp": "2026-01-20T03:25:55.443259",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158384622"
+  "run_id": "21158387869"
 }
