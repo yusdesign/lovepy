@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 95.4%
-😂 Extra joke: Unix is user friendly. It's just very particular about who its friends are.
-⏰ 2026-01-20 12:22:38 UTC
+🎲 Chance: 24.1%
+😂 Funny: I for one am excited for the days when dereferencing a null pointer causes an aneurysm.
+⏰ 2026-01-20 12:22:51 UTC
 🔗 https://github.com/yusdesign/lovepy
