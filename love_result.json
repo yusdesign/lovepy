@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2122121525641445,
+  "chance": 0.245427014523123,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why was the developer bankrupt? He'd used all his cache.",
-  "timestamp": "2026-01-20T02:35:37.287408",
+  "joke": "I've been using Vim for a long time now, mainly because I can't figure out how to exit.",
+  "timestamp": "2026-01-20T02:35:48.350336",
   "repository": "yusdesign/lovepy",
-  "run_id": "21157507367"
+  "run_id": "21157510256"
 }
