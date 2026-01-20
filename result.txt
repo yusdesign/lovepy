@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.2%
-😂 Extra joke: Have you heard about the new Cray super computer? It's so fast, it executes an infinite loop in 6 seconds.
-⏰ 2026-01-20 01:30:16 UTC
+🎲 Chance: 19.3%
+😂 Funny: 'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
+⏰ 2026-01-20 01:30:29 UTC
 🔗 https://github.com/yusdesign/lovepy
