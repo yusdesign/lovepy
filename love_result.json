@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.21189888522350253,
+  "chance": 0.19892416301281146,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A programmer crashes a car at the bottom of a hill, a bystander asks what happened, he says \"No idea. Let's push it back up and try again\".",
-  "timestamp": "2026-01-20T13:58:20.009387",
+  "joke": "Why do we want intelligent terminals when there are so many stupid users?",
+  "timestamp": "2026-01-20T13:58:32.749045",
   "repository": "yusdesign/lovepy",
-  "run_id": "21174159726"
+  "run_id": "21174166603"
 }
