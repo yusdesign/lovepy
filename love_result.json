@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8710186388312109,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "!false, (It's funny because it's true)",
-  "timestamp": "2026-01-20T19:35:59.854774",
+  "level": "SEGFAULT",
+  "chance": 0.19131902211096352,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Speed dating is useless. 5 minutes is not enough to properly explain the benefits of the Unix philosophy.",
+  "timestamp": "2026-01-20T19:36:36.813074",
   "repository": "yusdesign/lovepy",
-  "run_id": "21184690640"
+  "run_id": "21184706742"
 }
