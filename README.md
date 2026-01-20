@@ -5,16 +5,16 @@ A whimsical Python project that measures "love compatibility" with random calcul
 ## 📊 Current Status
 
 ```
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 84.6%
-😂 Extra joke: 3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.
-⏰ 2026-01-20 08:14:27 UTC
+🎲 Chance: 41.6%
+😂 Joke: Changed my password to fortnight but apparently that's two week.
+⏰ 2026-01-20 08:14:39 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-20 08:14:27 UTC
+**Last Updated:** 2026-01-20 08:14:39 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
