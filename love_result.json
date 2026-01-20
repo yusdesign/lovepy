@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7907307079334519,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
-  "timestamp": "2026-01-20T06:58:33.113202",
+  "level": "SEGFAULT",
+  "chance": 0.07326428083130065,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
+  "timestamp": "2026-01-20T06:58:45.064578",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162386073"
+  "run_id": "21162389767"
 }
