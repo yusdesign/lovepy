@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 55.4%
-😂 Joke: Don't compute and drive; the life you save may be your own.
-⏰ 2026-01-20 12:48:02 UTC
+🎲 Chance: 16.8%
+😂 Funny: Why do sin and tan work? Just cos.
+⏰ 2026-01-20 12:48:13 UTC
 🔗 https://github.com/yusdesign/lovepy
