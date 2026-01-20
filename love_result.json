@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.08591694554221163,
+  "chance": 0.25199375916279476,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The best thing about a Boolean is that even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-20T16:59:27.659741",
+  "joke": "The generation of random numbers is too important to be left to chance.",
+  "timestamp": "2026-01-20T16:59:41.955108",
   "repository": "yusdesign/lovepy",
-  "run_id": "21180182429"
+  "run_id": "21180189304"
 }
