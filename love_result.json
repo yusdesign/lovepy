@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.28863828012548365,
+  "chance": 0.027920275237969694,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
-  "timestamp": "2026-01-20T10:41:54.445698",
+  "joke": "How an engineer writes a program: Start by debugging an empty file...",
+  "timestamp": "2026-01-20T10:42:05.189335",
   "repository": "yusdesign/lovepy",
-  "run_id": "21168472214"
+  "run_id": "21168478497"
 }
