@@ -8,13 +8,13 @@ A whimsical Python project that measures "love compatibility" with random calcul
 🤝 Python Love Meter
 🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 52.3%
-😂 Joke: QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
-⏰ 2026-01-20 15:06:01 UTC
+🎲 Chance: 30.4%
+😂 Joke: An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+⏰ 2026-01-20 15:06:14 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-20 15:06:01 UTC
+**Last Updated:** 2026-01-20 15:06:14 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
