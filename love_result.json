@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.11173593638607837,
+  "chance": 0.04831778502819961,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
-  "timestamp": "2026-01-20T00:52:57.996154",
+  "joke": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+  "timestamp": "2026-01-20T00:53:08.765150",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155751641"
+  "run_id": "21155754837"
 }
