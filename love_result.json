@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7445188866733814,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I would tell you a joke about UDP, but you would never get it.",
-  "timestamp": "2026-01-20T22:07:32.485791",
+  "level": "SEGFAULT",
+  "chance": 0.21477954793577536,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "To understand recursion you must first understand recursion.",
+  "timestamp": "2026-01-20T22:07:44.404275",
   "repository": "yusdesign/lovepy",
-  "run_id": "21189007141"
+  "run_id": "21189012567"
 }
