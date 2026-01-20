@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.025207215514321923,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Sympathy for the Devil is really just about being nice to QAs.",
-  "timestamp": "2026-01-20T14:05:25.434111",
+  "level": "LOVE",
+  "chance": 0.7841609028968596,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.",
+  "timestamp": "2026-01-20T14:05:40.330983",
   "repository": "yusdesign/lovepy",
-  "run_id": "21174388161"
+  "run_id": "21174393752"
 }
