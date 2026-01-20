@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 95.9%
-😂 Extra joke: I'm not anti-social; I'm just not user friendly.
-⏰ 2026-01-20 04:57:03 UTC
+🎲 Chance: 23.6%
+😂 Funny: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-20 04:57:17 UTC
 🔗 https://github.com/yusdesign/lovepy
