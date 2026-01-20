@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8465724290598449,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!",
-  "timestamp": "2026-01-20T15:33:32.847699",
+  "level": "SEGFAULT",
+  "chance": 0.09659878932495969,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.",
+  "timestamp": "2026-01-20T15:33:45.150675",
   "repository": "yusdesign/lovepy",
-  "run_id": "21177362226"
+  "run_id": "21177369129"
 }
