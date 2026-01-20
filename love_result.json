@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4546118339678299,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
-  "timestamp": "2026-01-20T10:40:41.407426",
+  "level": "SEGFAULT",
+  "chance": 0.2525660582854796,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Optimist: The glass is half full. Pessimist: The glass is half empty. Programmer: The glass is twice as large as necessary.",
+  "timestamp": "2026-01-20T10:40:51.847753",
   "repository": "yusdesign/lovepy",
-  "run_id": "21168438056"
+  "run_id": "21168443176"
 }
