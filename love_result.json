@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.4746173436719504,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I for one am excited for the days when dereferencing a null pointer causes an aneurysm.",
-  "timestamp": "2026-01-20T07:32:56.693018",
+  "level": "SEGFAULT",
+  "chance": 0.2371891001356734,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If doctors were like software engineers, they would say things like Have you tried killing yourself and being reborn?",
+  "timestamp": "2026-01-20T07:33:05.660021",
   "repository": "yusdesign/lovepy",
-  "run_id": "21163166634"
+  "run_id": "21163170468"
 }
