@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3608502936012814,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-20T10:21:36.727740",
+  "level": "SEGFAULT",
+  "chance": 0.21440120869674606,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.",
+  "timestamp": "2026-01-20T10:21:49.471044",
   "repository": "yusdesign/lovepy",
-  "run_id": "21167869093"
+  "run_id": "21167876364"
 }
