@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.23333863977251035,
+  "chance": 0.11474058027689038,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Is reading in the bathroom considered Multi-Tasking.",
-  "timestamp": "2026-01-20T23:10:29.881972",
+  "joke": "How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.",
+  "timestamp": "2026-01-20T23:10:45.605966",
   "repository": "yusdesign/lovepy",
-  "run_id": "21190699787"
+  "run_id": "21190704526"
 }
