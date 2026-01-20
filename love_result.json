@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2486498129912148,
+  "chance": 0.067994638294407,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
-  "timestamp": "2026-01-20T09:57:05.135746",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-20T09:57:22.361241",
   "repository": "yusdesign/lovepy",
-  "run_id": "21167123390"
+  "run_id": "21167128315"
 }
