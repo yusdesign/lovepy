@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.16628026443751176,
+  "chance": 0.047458901190733704,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-20T06:11:14.105096",
+  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
+  "timestamp": "2026-01-20T06:11:25.197446",
   "repository": "yusdesign/lovepy",
-  "run_id": "21161402409"
+  "run_id": "21161405808"
 }
