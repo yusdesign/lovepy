@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 98.3%
-😂 Extra joke: A programmer walks into a foo...
-⏰ 2026-01-20 02:39:01 UTC
+🎲 Chance: 0.4%
+😂 Funny: 'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'
+⏰ 2026-01-20 02:39:11 UTC
 🔗 https://github.com/yusdesign/lovepy
