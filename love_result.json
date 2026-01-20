@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.05264336823520932,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.",
-  "timestamp": "2026-01-20T06:51:04.276038",
+  "level": "LIKE",
+  "chance": 0.5864421526311924,
+  "emoji": "\ud83e\udd1d",
+  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
+  "joke": "One person's error is another person's data.",
+  "timestamp": "2026-01-20T06:51:14.256270",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162232202"
+  "run_id": "21162235567"
 }
