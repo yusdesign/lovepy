@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0992032052763464,
+  "chance": 0.27523068622421776,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-20T03:54:52.539864",
+  "joke": "One person's error is another person's data.",
+  "timestamp": "2026-01-20T03:55:04.853866",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158878739"
+  "run_id": "21158881682"
 }
