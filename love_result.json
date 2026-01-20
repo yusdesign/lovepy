@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.11180696405085389,
+  "chance": 0.14406004225920077,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do sin and tan work? Just cos.",
-  "timestamp": "2026-01-20T08:49:09.861249",
+  "joke": "I've been using Vim for a long time now, mainly because I can't figure out how to exit.",
+  "timestamp": "2026-01-20T08:49:22.711733",
   "repository": "yusdesign/lovepy",
-  "run_id": "21165110173"
+  "run_id": "21165115730"
 }
