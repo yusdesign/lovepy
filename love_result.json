@@ -1,10 +1,10 @@
 {
   "level": "LIKE",
-  "chance": 0.681965731886935,
+  "chance": 0.4275477917724907,
   "emoji": "\ud83e\udd1d",
   "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
-  "timestamp": "2026-01-20T20:22:42.266513",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-20T20:22:53.656498",
   "repository": "yusdesign/lovepy",
-  "run_id": "21185948230"
+  "run_id": "21185954899"
 }
