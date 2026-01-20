@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.20155522584633756,
+  "chance": 0.12881443161109907,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
-  "timestamp": "2026-01-20T13:43:19.426390",
+  "joke": "Two bytes meet. The first byte asks, 'Are you ill?' The second byte replies, 'No, just feeling a bit off.'",
+  "timestamp": "2026-01-20T13:43:30.582545",
   "repository": "yusdesign/lovepy",
-  "run_id": "21173695963"
+  "run_id": "21173702872"
 }
