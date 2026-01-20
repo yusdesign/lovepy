@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2516444951462564,
+  "chance": 0.10836958296016497,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.",
-  "timestamp": "2026-01-20T14:54:32.461233",
+  "joke": "A programmer had a problem. He thought to himself, 'I know, I'll solve it with threads!'. has Now problems. two he",
+  "timestamp": "2026-01-20T14:54:44.559204",
   "repository": "yusdesign/lovepy",
-  "run_id": "21176022211"
+  "run_id": "21176029024"
 }
