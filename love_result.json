@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5374801755612624,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How many programmers does it take to change a lightbulb? None, that's a hardware problem.",
-  "timestamp": "2026-01-20T20:37:36.028825",
+  "level": "SEGFAULT",
+  "chance": 0.16560230227147577,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.",
+  "timestamp": "2026-01-20T20:37:48.907402",
   "repository": "yusdesign/lovepy",
-  "run_id": "21186387918"
+  "run_id": "21186392147"
 }
