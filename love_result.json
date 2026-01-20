@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.004760773007270291,
+  "chance": 0.04742861109931007,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-20T02:24:39.318170",
+  "joke": "Real programmers can write assembly code in any language.",
+  "timestamp": "2026-01-20T02:24:50.432505",
   "repository": "yusdesign/lovepy",
-  "run_id": "21157333030"
+  "run_id": "21157335872"
 }
