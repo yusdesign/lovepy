@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 70.4%
-😂 Extra joke: The Internet: where men are men, women are men, and children are FBI agents.
-⏰ 2026-01-20 02:00:07 UTC
+🎲 Chance: 29.1%
+😂 Funny: What is Benoit B. Mandelbrot's middle name? Benoit B. Mandelbrot.
+⏰ 2026-01-20 02:00:16 UTC
 🔗 https://github.com/yusdesign/lovepy
