@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.06988516669708622,
+  "chance": 0.028461960504086337,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "My girlfriend dumped me after I named a class after her. She felt I treated her like an object.",
-  "timestamp": "2026-01-20T00:12:07.823215",
+  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
+  "timestamp": "2026-01-20T00:12:16.480096",
   "repository": "yusdesign/lovepy",
-  "run_id": "21154998549"
+  "run_id": "21155001675"
 }
