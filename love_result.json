@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.04492064895624892,
+  "chance": 0.1719568867631429,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-20T18:31:37.437215",
+  "joke": "How many QAs does it take to change a lightbulb? They noticed that the room was dark. They don't fix problems, they find them.",
+  "timestamp": "2026-01-20T18:31:47.608089",
   "repository": "yusdesign/lovepy",
-  "run_id": "21182950956"
+  "run_id": "21182955931"
 }
