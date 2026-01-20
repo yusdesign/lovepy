@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10779356770005866,
+  "chance": 0.2185399754972952,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
-  "timestamp": "2026-01-20T03:37:04.974461",
+  "joke": "To understand recursion you must first understand recursion.",
+  "timestamp": "2026-01-20T03:37:16.086825",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158579816"
+  "run_id": "21158582541"
 }
