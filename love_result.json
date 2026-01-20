@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.21741319705123552,
+  "chance": 0.007833554053276126,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Schrodinger's attitude to web development: If I don't look at it in Internet Explorer then there's a chance it looks fine.",
-  "timestamp": "2026-01-20T23:15:06.003468",
+  "joke": "Hey! It compiles! Ship it!",
+  "timestamp": "2026-01-20T23:15:16.872333",
   "repository": "yusdesign/lovepy",
-  "run_id": "21190805262"
+  "run_id": "21190810447"
 }
