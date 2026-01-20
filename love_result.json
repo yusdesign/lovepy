@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.029959929800761342,
+  "chance": 0.1526072575252374,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
-  "timestamp": "2026-01-20T21:47:23.457188",
+  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
+  "timestamp": "2026-01-20T21:47:36.883601",
   "repository": "yusdesign/lovepy",
-  "run_id": "21188436957"
+  "run_id": "21188444293"
 }
