@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10379086947691174,
+  "chance": 0.20488694619709447,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.",
-  "timestamp": "2026-01-20T21:38:19.920214",
+  "joke": "The computer is mightier than the pen, the sword, and usually, the programmer",
+  "timestamp": "2026-01-20T21:38:31.012781",
   "repository": "yusdesign/lovepy",
-  "run_id": "21188161140"
+  "run_id": "21188167646"
 }
