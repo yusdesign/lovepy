@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2072551915542198,
+  "chance": 0.14467060814049026,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-20T09:19:37.604250",
+  "joke": "What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.",
+  "timestamp": "2026-01-20T09:19:49.598560",
   "repository": "yusdesign/lovepy",
-  "run_id": "21166002143"
+  "run_id": "21166008081"
 }
