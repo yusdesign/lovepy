@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9459084617831743,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "What do you call a programmer from Finland? Nerdic.",
-  "timestamp": "2026-01-20T21:19:13.934750",
+  "level": "SEGFAULT",
+  "chance": 0.12180952486045904,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Pirates go 'arg!', computer pirates go 'argv!'",
+  "timestamp": "2026-01-20T21:19:25.619153",
   "repository": "yusdesign/lovepy",
-  "run_id": "21187611306"
+  "run_id": "21187616986"
 }

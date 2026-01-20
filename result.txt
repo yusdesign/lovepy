@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 94.6%
-😂 Extra joke: What do you call a programmer from Finland? Nerdic.
-⏰ 2026-01-20 21:19:13 UTC
+🎲 Chance: 12.2%
+😂 Funny: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-20 21:19:25 UTC
 🔗 https://github.com/yusdesign/lovepy
