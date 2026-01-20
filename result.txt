@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 39.6%
-😂 Joke: Debugging is like being the detective in a crime drama where you are also the murderer.
-⏰ 2026-01-20 01:58:40 UTC
+🎲 Chance: 12.0%
+😂 Funny: !false, (It's funny because it's true)
+⏰ 2026-01-20 01:58:51 UTC
 🔗 https://github.com/yusdesign/lovepy
