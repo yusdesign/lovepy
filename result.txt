@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 93.5%
-😂 Extra joke: Programmer's Time-Space Continuum: Programmers continuously space the time.
-⏰ 2026-01-20 02:35:58 UTC
+🎲 Chance: 9.9%
+😂 Funny: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
+⏰ 2026-01-20 02:36:10 UTC
 🔗 https://github.com/yusdesign/lovepy
