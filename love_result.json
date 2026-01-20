@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2185399754972952,
+  "chance": 0.015014809102761095,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-20T03:37:16.086825",
+  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
+  "timestamp": "2026-01-20T03:37:28.132473",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158582541"
+  "run_id": "21158585592"
 }
