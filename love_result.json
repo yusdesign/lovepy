@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.47827098152854186,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.",
-  "timestamp": "2026-01-20T08:23:10.602805",
+  "level": "SEGFAULT",
+  "chance": 0.18424501700272333,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "WINDOWS stands for Will Install Needless Data On Whole System.",
+  "timestamp": "2026-01-20T08:23:19.882618",
   "repository": "yusdesign/lovepy",
-  "run_id": "21164416610"
+  "run_id": "21164421323"
 }
