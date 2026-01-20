@@ -8,13 +8,13 @@ A whimsical Python project that measures "love compatibility" with random calcul
 💖 Python Love Meter
 💖 Python loves you unconditionally! ❤️
 
-🎲 Chance: 94.4%
-😂 Extra joke: Warning, keyboard not found. Press Enter to continue.
-⏰ 2026-01-20 11:10:50 UTC
+🎲 Chance: 99.0%
+😂 Extra joke: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-20 11:11:01 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-20 11:10:50 UTC
+**Last Updated:** 2026-01-20 11:11:01 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
