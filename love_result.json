@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.06281997517470939,
+  "chance": 0.12492228196361765,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The best thing about a Boolean is even if you are wrong, you are only off by a bit.",
-  "timestamp": "2026-01-20T10:43:36.743485",
+  "joke": ".NET was named .NET so that it wouldn't show up in a Unix directory listing.",
+  "timestamp": "2026-01-20T10:43:50.797731",
   "repository": "yusdesign/lovepy",
-  "run_id": "21168525217"
+  "run_id": "21168529896"
 }
