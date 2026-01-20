@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 90.1%
-😂 Extra joke: My attitude isn't bad. It's in beta.
-⏰ 2026-01-20 07:30:59 UTC
+🎲 Chance: 26.0%
+😂 Funny: Computers are like air conditioners: they stop working when you open Windows.
+⏰ 2026-01-20 07:31:10 UTC
 🔗 https://github.com/yusdesign/lovepy

@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9014438167607413,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "My attitude isn't bad. It's in beta.",
-  "timestamp": "2026-01-20T07:30:59.941044",
+  "level": "SEGFAULT",
+  "chance": 0.2598200272183975,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
+  "timestamp": "2026-01-20T07:31:10.283450",
   "repository": "yusdesign/lovepy",
-  "run_id": "21163122751"
+  "run_id": "21163127172"
 }
