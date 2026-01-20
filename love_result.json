@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5911472693267001,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.",
-  "timestamp": "2026-01-20T15:46:26.799720",
+  "level": "SEGFAULT",
+  "chance": 0.26744606450866737,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.",
+  "timestamp": "2026-01-20T15:46:38.682184",
   "repository": "yusdesign/lovepy",
-  "run_id": "21177791529"
+  "run_id": "21177801328"
 }
