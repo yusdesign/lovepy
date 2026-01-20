@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.05323536575906984,
+  "chance": 0.0788717192248638,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Waiter: He's choking! Is anyone a doctor? Programmer: I'm a Vim user.",
-  "timestamp": "2026-01-20T08:24:16.210856",
+  "joke": "Triumphantly, Beth removed Python 2.7 from her server in 2030. 'Finally!' she said with glee, only to see the announcement for Python 4.4.",
+  "timestamp": "2026-01-20T08:24:27.649332",
   "repository": "yusdesign/lovepy",
-  "run_id": "21164446097"
+  "run_id": "21164450256"
 }
