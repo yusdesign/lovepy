@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.7%
-😂 Extra joke: Failure is not an option. It comes bundled with your Microsoft product.
-⏰ 2026-01-20 17:14:00 UTC
+🎲 Chance: 1.4%
+😂 Funny: Is reading in the bathroom considered Multi-Tasking.
+⏰ 2026-01-20 17:14:12 UTC
 🔗 https://github.com/yusdesign/lovepy
