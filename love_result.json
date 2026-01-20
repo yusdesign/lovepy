@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5710720105724618,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "A programmer was found dead in the shower. Next to their body was a bottle of shampoo with the instructions 'Lather, Rinse and Repeat'.",
-  "timestamp": "2026-01-20T09:06:29.085096",
+  "level": "SEGFAULT",
+  "chance": 0.20723792026205845,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Windows is NOT a virus. Viruses DO something.",
+  "timestamp": "2026-01-20T09:06:41.656478",
   "repository": "yusdesign/lovepy",
-  "run_id": "21165602020"
+  "run_id": "21165608346"
 }
