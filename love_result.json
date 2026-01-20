@@ -1,10 +1,10 @@
 {
   "level": "LIKE",
-  "chance": 0.5544087937922255,
+  "chance": 0.3742697691625654,
   "emoji": "\ud83e\udd1d",
   "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-20T09:20:51.289331",
+  "joke": "User error: replace user and press any key to continue.",
+  "timestamp": "2026-01-20T09:21:01.174608",
   "repository": "yusdesign/lovepy",
-  "run_id": "21166040881"
+  "run_id": "21166045684"
 }
