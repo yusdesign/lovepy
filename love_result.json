@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.29683047705932186,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are 10 types of people: those who understand binary and those who don't.",
-  "timestamp": "2026-01-20T16:55:53.014702",
+  "level": "LOVE",
+  "chance": 0.8821519047316677,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-20T16:56:05.533802",
   "repository": "yusdesign/lovepy",
-  "run_id": "21180071470"
+  "run_id": "21180077278"
 }
