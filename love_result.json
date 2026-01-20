@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5160724514683841,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How do you know whether a person is a Vim user? Don't worry, they'll tell you.",
-  "timestamp": "2026-01-20T00:44:14.433913",
+  "level": "SEGFAULT",
+  "chance": 0.13547483341289435,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-20T00:44:26.558243",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155595318"
+  "run_id": "21155598014"
 }
