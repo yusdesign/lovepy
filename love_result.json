@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9102969297036025,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.",
-  "timestamp": "2026-01-20T21:13:05.535330",
+  "level": "SEGFAULT",
+  "chance": 0.20192119140484088,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
+  "timestamp": "2026-01-20T21:13:17.568664",
   "repository": "yusdesign/lovepy",
-  "run_id": "21187435648"
+  "run_id": "21187441635"
 }
