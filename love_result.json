@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.39905433227409126,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-  "timestamp": "2026-01-20T15:04:00.107183",
+  "level": "SEGFAULT",
+  "chance": 0.12369919428134968,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If Ruby is not and Perl is the answer, you don't understand the question.",
+  "timestamp": "2026-01-20T15:04:12.468301",
   "repository": "yusdesign/lovepy",
-  "run_id": "21176348511"
+  "run_id": "21176356205"
 }
