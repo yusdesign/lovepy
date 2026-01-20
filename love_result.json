@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8927482110445029,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-01-20T13:37:42.896229",
+  "level": "SEGFAULT",
+  "chance": 0.028472360954372222,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "If you listen to a UNIX shell, can you hear the C?",
+  "timestamp": "2026-01-20T13:37:54.543897",
   "repository": "yusdesign/lovepy",
-  "run_id": "21173529514"
+  "run_id": "21173535565"
 }
