@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13662253764657672,
+  "chance": 0.16706057020622256,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "3 Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn't find a table.",
-  "timestamp": "2026-01-20T09:07:05.981607",
+  "joke": "['hip', 'hip'] (hip hip array!)",
+  "timestamp": "2026-01-20T09:07:17.867411",
   "repository": "yusdesign/lovepy",
-  "run_id": "21165619520"
+  "run_id": "21165626141"
 }
