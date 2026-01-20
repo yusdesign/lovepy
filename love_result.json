@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.806028398618657,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "To understand recursion you must first understand recursion.",
-  "timestamp": "2026-01-20T21:55:11.934558",
+  "level": "SEGFAULT",
+  "chance": 0.2437749834446966,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Complaining about the lack of smoking shelters, the nicotine addicted Python programmers said there ought to be 'spaces for tabs'.",
+  "timestamp": "2026-01-20T21:55:25.469515",
   "repository": "yusdesign/lovepy",
-  "run_id": "21188663902"
+  "run_id": "21188668428"
 }
