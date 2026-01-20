@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 73.2%
-😂 Extra joke: What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
-⏰ 2026-01-20 01:05:27 UTC
+🎲 Chance: 21.3%
+😂 Funny: What do you get when you cross a cat and a dog? Cat dog sin theta.
+⏰ 2026-01-20 01:05:37 UTC
 🔗 https://github.com/yusdesign/lovepy
