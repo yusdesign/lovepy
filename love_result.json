@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.11822123316620803,
+  "chance": 0.21434787468983763,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Eight bytes walk into a bar. The bartender asks, 'Can I get you anything?' 'Yeah,' replies the bytes. 'Make us a double.'",
-  "timestamp": "2026-01-20T21:16:07.513058",
+  "joke": "I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.",
+  "timestamp": "2026-01-20T21:16:17.999502",
   "repository": "yusdesign/lovepy",
-  "run_id": "21187524902"
+  "run_id": "21187530352"
 }
