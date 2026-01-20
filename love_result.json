@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.03237845822133123,
+  "chance": 0.10378182783846657,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.",
-  "timestamp": "2026-01-20T11:51:19.284093",
+  "joke": "What did the Java code say to the C code? A: You've got no class.",
+  "timestamp": "2026-01-20T11:51:30.537520",
   "repository": "yusdesign/lovepy",
-  "run_id": "21170435583"
+  "run_id": "21170442149"
 }
