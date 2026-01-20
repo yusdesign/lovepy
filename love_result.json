@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8906276994034056,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "ASCII stupid question, get a stupid ANSI.",
-  "timestamp": "2026-01-20T03:29:12.364064",
+  "level": "SEGFAULT",
+  "chance": 0.2199847047702791,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
+  "timestamp": "2026-01-20T03:29:23.463468",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158441669"
+  "run_id": "21158444644"
 }
