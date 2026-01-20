@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7244465723459264,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are II types of people: Those who understand Roman Numerals and those who don't.",
-  "timestamp": "2026-01-20T00:52:35.971051",
+  "level": "SEGFAULT",
+  "chance": 0.1392035708363284,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Hardware: The part of a computer that you can kick.",
+  "timestamp": "2026-01-20T00:52:46.571578",
   "repository": "yusdesign/lovepy",
-  "run_id": "21155746304"
+  "run_id": "21155748844"
 }
