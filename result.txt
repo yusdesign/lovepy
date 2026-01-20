@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 78.3%
-😂 Extra joke: WINDOWS stands for Will Install Needless Data On Whole System.
-⏰ 2026-01-20 17:28:52 UTC
+🎲 Chance: 11.2%
+😂 Funny: The box said: 'install on Windows 95, NT 4.0 or better'. So I installed it on Linux.
+⏰ 2026-01-20 17:29:04 UTC
 🔗 https://github.com/yusdesign/lovepy
