@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 91.5%
-😂 Extra joke: What do you get when you cross a cat and a dog? Cat dog sin theta.
-⏰ 2026-01-20 02:51:51 UTC
+🎲 Chance: 29.2%
+😂 Funny: Windows is NOT a virus. Viruses DO something.
+⏰ 2026-01-20 02:52:04 UTC
 🔗 https://github.com/yusdesign/lovepy
