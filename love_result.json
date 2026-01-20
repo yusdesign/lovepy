@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.039147236990658474,
+  "chance": 0.05211540756004929,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Writing PHP is like peeing in the swimming pool, everyone did it, but we don't need to bring it up in public.",
-  "timestamp": "2026-01-20T08:01:59.229978",
+  "joke": "The best thing about a Boolean is that even if you are wrong, you are only off by a bit.",
+  "timestamp": "2026-01-20T08:02:09.317227",
   "repository": "yusdesign/lovepy",
-  "run_id": "21163850271"
+  "run_id": "21163855909"
 }
