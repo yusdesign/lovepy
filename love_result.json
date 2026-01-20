@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.24108015459399568,
+  "chance": 0.15366607104984376,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Apparently my password needs to be capitals only so I've changed it to LONDONMADRIDROME",
-  "timestamp": "2026-01-20T17:41:47.811905",
+  "joke": "How many programmers does it take to change a lightbulb? None, they just make darkness a standard.",
+  "timestamp": "2026-01-20T17:41:58.914137",
   "repository": "yusdesign/lovepy",
-  "run_id": "21181485537"
+  "run_id": "21181491689"
 }
