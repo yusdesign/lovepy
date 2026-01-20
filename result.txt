@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 70.4%
-😂 Extra joke: When your hammer is C++, everything begins to look like a thumb.
-⏰ 2026-01-20 00:36:04 UTC
+🎲 Chance: 16.8%
+😂 Funny: Computer analyst to programmer: You start coding. I'll go find out what they want.
+⏰ 2026-01-20 00:36:13 UTC
 🔗 https://github.com/yusdesign/lovepy
