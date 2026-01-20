@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8530839425409803,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
-  "timestamp": "2026-01-20T13:24:36.932836",
+  "level": "SEGFAULT",
+  "chance": 0.0072773629077067525,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "I for one am excited for the days when dereferencing a null pointer causes an aneurysm.",
+  "timestamp": "2026-01-20T13:24:47.764415",
   "repository": "yusdesign/lovepy",
-  "run_id": "21173128454"
+  "run_id": "21173134855"
 }
