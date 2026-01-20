@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0919741807025447,
+  "chance": 0.06381523378702247,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are 10 types of people: those who understand binary, those who don't, and those who were expecting this joke to be in trinary.",
-  "timestamp": "2026-01-20T06:24:10.522778",
+  "joke": "Why do sin and tan work? Just cos.",
+  "timestamp": "2026-01-20T06:24:23.444372",
   "repository": "yusdesign/lovepy",
-  "run_id": "21161679533"
+  "run_id": "21161683036"
 }
