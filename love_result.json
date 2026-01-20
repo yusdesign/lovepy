@@ -1,10 +1,10 @@
 {
-  "level": "SEGFAULT",
-  "chance": 0.15472968676981114,
-  "emoji": "\ud83d\udc94",
-  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why don't jokes work in octal? Because 7 10 11.",
-  "timestamp": "2026-01-20T20:23:52.434665",
+  "level": "LOVE",
+  "chance": 0.8288828903325639,
+  "emoji": "\ud83d\udc96",
+  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
+  "joke": "Java: Write once, run away.",
+  "timestamp": "2026-01-20T20:24:03.632428",
   "repository": "yusdesign/lovepy",
-  "run_id": "21185984500"
+  "run_id": "21185990012"
 }
