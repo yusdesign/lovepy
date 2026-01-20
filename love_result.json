@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.43815871906450954,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances into a bar. Tiptoes into a bar. Rams a bar. Jumps into a bar.",
-  "timestamp": "2026-01-20T06:15:26.141258",
+  "level": "SEGFAULT",
+  "chance": 0.2295240634729967,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do sin and tan work? Just cos.",
+  "timestamp": "2026-01-20T06:15:36.477716",
   "repository": "yusdesign/lovepy",
-  "run_id": "21161493442"
+  "run_id": "21161498195"
 }
