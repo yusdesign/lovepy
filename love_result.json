@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.16132936129654396,
+  "chance": 0.09590760752568128,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "In C we had to code our own bugs. In C++ we can inherit them.",
-  "timestamp": "2026-01-20T21:10:33.824106",
+  "joke": "!false, (It's funny because it's true)",
+  "timestamp": "2026-01-20T21:10:49.978092",
   "repository": "yusdesign/lovepy",
-  "run_id": "21187360191"
+  "run_id": "21187365608"
 }
