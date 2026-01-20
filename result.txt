@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 73.0%
-😂 Extra joke: There are II types of people: Those who understand Roman Numerals and those who don't.
-⏰ 2026-01-20 11:21:45 UTC
+🎲 Chance: 4.3%
+😂 Funny: Why did Microsoft name their search engine BING? Because It's Not Google.
+⏰ 2026-01-20 11:21:58 UTC
 🔗 https://github.com/yusdesign/lovepy
