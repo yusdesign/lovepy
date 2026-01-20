@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9408870635920515,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Buy a Pentium 586/200 so you can reboot faster.",
-  "timestamp": "2026-01-20T23:39:09.241582",
+  "level": "SEGFAULT",
+  "chance": 0.16277519196323398,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "A programmer walks into a foo...",
+  "timestamp": "2026-01-20T23:39:21.263624",
   "repository": "yusdesign/lovepy",
-  "run_id": "21191373189"
+  "run_id": "21191377068"
 }
