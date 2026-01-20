@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8281843158705505,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Buy a Pentium 586/200 so you can reboot faster.",
-  "timestamp": "2026-01-20T22:19:36.284194",
+  "level": "SEGFAULT",
+  "chance": 0.18348415246729555,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Java: Write once, run away.",
+  "timestamp": "2026-01-20T22:19:46.061809",
   "repository": "yusdesign/lovepy",
-  "run_id": "21189341364"
+  "run_id": "21189348308"
 }
