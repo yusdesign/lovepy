@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.16043307107514793,
+  "chance": 0.2796612711467922,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-20T09:37:57.772235",
+  "joke": "I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.",
+  "timestamp": "2026-01-20T09:38:07.274297",
   "repository": "yusdesign/lovepy",
-  "run_id": "21166556073"
+  "run_id": "21166561672"
 }
