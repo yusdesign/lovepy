@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10610554571732711,
+  "chance": 0.2949187451097719,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
-  "timestamp": "2026-01-20T01:57:39.254892",
+  "joke": "The generation of random numbers is too important to be left to chance.",
+  "timestamp": "2026-01-20T01:57:49.380921",
   "repository": "yusdesign/lovepy",
-  "run_id": "21156860835"
+  "run_id": "21156863040"
 }
