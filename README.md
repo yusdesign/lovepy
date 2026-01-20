@@ -5,16 +5,16 @@ A whimsical Python project that measures "love compatibility" with random calcul
 ## 📊 Current Status
 
 ```
-💔 Python Love Meter
-💔 Python's heart is currently segfaulting. Try again later.
+🤝 Python Love Meter
+🤝 Python kinda likes you... but needs more indentations.
 
-🎲 Chance: 0.4%
-😂 Funny: Why did the programmer quit his job? Because he didn't get arrays.
-⏰ 2026-01-20 23:20:41 UTC
+🎲 Chance: 53.4%
+😂 Joke: A Programmer was walking out of door for work, his wife said "while you're out, buy some milk" and he never returned.
+⏰ 2026-01-20 23:20:52 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-20 23:20:41 UTC
+**Last Updated:** 2026-01-20 23:20:52 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
