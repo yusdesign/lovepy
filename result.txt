@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 71.2%
-😂 Extra joke: A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
-⏰ 2026-01-20 02:11:40 UTC
+🎲 Chance: 24.1%
+😂 Funny: Speed Kills! Use Windows.
+⏰ 2026-01-20 02:11:51 UTC
 🔗 https://github.com/yusdesign/lovepy
