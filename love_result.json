@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2901935605869811,
+  "chance": 0.07070397216006341,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Programmer's Time-Space Continuum: Programmers continuously space the time.",
-  "timestamp": "2026-01-20T01:34:46.806770",
+  "joke": "A product manager walks into a bar, asks for drink. Bartender says no, but will consider adding later.",
+  "timestamp": "2026-01-20T01:34:57.663445",
   "repository": "yusdesign/lovepy",
-  "run_id": "21156478655"
+  "run_id": "21156482506"
 }
