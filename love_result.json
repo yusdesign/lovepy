@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5675120686185954,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. \"The year is 9999. You know COBOL, right?\"",
-  "timestamp": "2026-01-20T03:17:50.275094",
+  "level": "SEGFAULT",
+  "chance": 0.05652171395802441,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "There are 2 types of people: those who can extrapolate from incomplete data sets...",
+  "timestamp": "2026-01-20T03:18:02.097150",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158255009"
+  "run_id": "21158257982"
 }
