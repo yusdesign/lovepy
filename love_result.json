@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9668340951699631,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I love pressing the F5 key. It's refreshing.",
-  "timestamp": "2026-01-20T07:35:06.066488",
+  "level": "SEGFAULT",
+  "chance": 0.24249713052016475,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Unix is user friendly. It's just very particular about who its friends are.",
+  "timestamp": "2026-01-20T07:35:17.792040",
   "repository": "yusdesign/lovepy",
-  "run_id": "21163218169"
+  "run_id": "21163223194"
 }
