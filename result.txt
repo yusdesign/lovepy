@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 75.1%
-😂 Extra joke: .NET was named .NET so that it wouldn't show up in a Unix directory listing.
-⏰ 2026-01-20 03:53:00 UTC
+🎲 Chance: 13.3%
+😂 Funny: Failure is not an option. It comes bundled with your Microsoft product.
+⏰ 2026-01-20 03:53:13 UTC
 🔗 https://github.com/yusdesign/lovepy
