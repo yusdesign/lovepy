@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 83.2%
-😂 Extra joke: What do you call a programmer from Finland? Nerdic.
-⏰ 2026-01-20 02:38:40 UTC
+🎲 Chance: 12.9%
+😂 Funny: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl.
+⏰ 2026-01-20 02:38:49 UTC
 🔗 https://github.com/yusdesign/lovepy
