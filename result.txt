@@ -1,7 +1,7 @@
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 76.5%
-😂 Extra joke: How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
-⏰ 2026-01-20 05:59:48 UTC
+🎲 Chance: 1.2%
+😂 Funny: I used to know a joke about Java, but I run out of memory.
+⏰ 2026-01-20 05:59:59 UTC
 🔗 https://github.com/yusdesign/lovepy
