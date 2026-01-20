@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.0965599243719304,
+  "chance": 0.22798172426502028,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are 2 types of people: those who can extrapolate from incomplete data sets...",
-  "timestamp": "2026-01-20T07:23:07.836761",
+  "joke": "Press CTRL-ALT-DEL to continue....",
+  "timestamp": "2026-01-20T07:23:17.858020",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162939139"
+  "run_id": "21162943885"
 }
