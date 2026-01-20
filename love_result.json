@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.29812452707113457,
+  "chance": 0.2486498129912148,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I changed my password to BeefStew but the computer told me it wasn't Stroganoff.",
-  "timestamp": "2026-01-20T09:56:55.213400",
+  "joke": "If you play a Windows CD backwards, you'll hear satanic chanting ... worse still, if you play it forwards, it installs Windows.",
+  "timestamp": "2026-01-20T09:57:05.135746",
   "repository": "yusdesign/lovepy",
-  "run_id": "21167118015"
+  "run_id": "21167123390"
 }
