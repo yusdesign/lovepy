@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.47908720442225927,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "I'm not anti-social; I'm just not user friendly.",
-  "timestamp": "2026-01-20T03:57:54.428203",
+  "level": "SEGFAULT",
+  "chance": 0.11172381398454934,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why did the programmer quit his job? Because he didn't get arrays.",
+  "timestamp": "2026-01-20T03:58:05.668522",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158935849"
+  "run_id": "21158939454"
 }
