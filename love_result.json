@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8629571034902525,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I would tell you a joke about UDP, but you would never get it.",
-  "timestamp": "2026-01-20T20:00:07.585814",
+  "level": "SEGFAULT",
+  "chance": 0.006573716056899159,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.",
+  "timestamp": "2026-01-20T20:00:31.473169",
   "repository": "yusdesign/lovepy",
-  "run_id": "21185302591"
+  "run_id": "21185316341"
 }
