@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 53.0%
-😂 Joke: To understand recursion you must first understand recursion.
-⏰ 2026-01-20 02:17:39 UTC
+🎲 Chance: 15.6%
+😂 Funny: When your hammer is C++, everything begins to look like a thumb.
+⏰ 2026-01-20 02:17:50 UTC
 🔗 https://github.com/yusdesign/lovepy
