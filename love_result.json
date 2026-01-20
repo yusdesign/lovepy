@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7012128733422369,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "A good programmer is someone who always looks both ways before crossing a one-way street.",
-  "timestamp": "2026-01-20T00:08:18.282367",
+  "level": "SEGFAULT",
+  "chance": 0.19161016917400475,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
+  "timestamp": "2026-01-20T00:08:27.360653",
   "repository": "yusdesign/lovepy",
-  "run_id": "21154927223"
+  "run_id": "21154930539"
 }
