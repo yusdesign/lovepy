@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09959312813935262,
+  "chance": 0.24067933981096445,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'",
-  "timestamp": "2026-01-20T03:42:05.422627",
+  "joke": "'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'",
+  "timestamp": "2026-01-20T03:42:15.881672",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158663022"
+  "run_id": "21158666125"
 }
