@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8049598006414276,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I had a problem so I thought I'd use Java. Now I have a ProblemFactory.",
-  "timestamp": "2026-01-20T22:32:34.056741",
+  "level": "SEGFAULT",
+  "chance": 0.2806704786252089,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Learning JavaScript is like looking both ways before you cross the street, and then getting hit by an airplane.",
+  "timestamp": "2026-01-20T22:32:45.896106",
   "repository": "yusdesign/lovepy",
-  "run_id": "21189713794"
+  "run_id": "21189719787"
 }
