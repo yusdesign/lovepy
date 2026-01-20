@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.13435147039261008,
+  "chance": 0.28094755921386805,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do programmers always mix up Halloween and Christmas? Because Oct 31 equals Dec 25.",
-  "timestamp": "2026-01-20T21:43:40.179544",
+  "joke": "A: What is your address? Me: 173.168.15.10 A: No, your local address Me: 127.0.0.1 A: I mean your physical address B: 29:01:38:62:31:58",
+  "timestamp": "2026-01-20T21:43:53.459675",
   "repository": "yusdesign/lovepy",
-  "run_id": "21188325067"
+  "run_id": "21188331686"
 }
