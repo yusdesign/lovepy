@@ -65,63 +65,52 @@ jobs:
           # Create a new README section
           CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
           
-          # Create the updated README content
-          cat > NEW_README.md << 'EOF'
-# 💖 Love Meter
-
-A whimsical Python project that measures "love compatibility" with random calculations and jokes.
-
-## 📊 Current Status
-
-EOF
-          
-          # Add the result.txt content
-          echo '```' >> NEW_README.md
+          # Create the updated README content - using simpler approach
+          echo "# 💖 Love Meter" > NEW_README.md
+          echo "" >> NEW_README.md
+          echo "A whimsical Python project that measures \"love compatibility\" with random calculations and jokes." >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 📊 Current Status" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "\`\`\`" >> NEW_README.md
           cat result.txt >> NEW_README.md
-          echo '```' >> NEW_README.md
-          
-          # Add the rest of the README
-          cat >> NEW_README.md << 'EOF'
-
-**Last Updated:** $CURRENT_TIME  
-*Updates every 2 hours between 8AM-10PM UTC*
-
-## 🌐 Live Demo
-
-Visit the live page: [https://yusdesign.github.io/lovepy/index.html](https://yusdesign.github.io/lovepy/index.html)
-
-## 🛠️ How It Works
-
-1. The script runs every 2 hours via GitHub Actions
-2. Generates random "compatibility" scores
-3. Adds a random programming joke
-4. Updates both `result.txt` and this README automatically
-
-## 📁 Project Structure
-
-- `love_meter.py` - Main Python script
-- `result.txt` - Latest results (updated automatically)
-- `love_result.json` - JSON version of results
-- `.github/workflows/` - GitHub Actions configuration
-
-## 🔧 Manual Trigger
-
-You can manually run the love meter:
-1. Go to **Actions** → **🐍 Python Love Meter Cron**
-2. Click **Run workflow**
-3. Select **main** branch
-
-## 📈 History
-
-View complete history in [GitHub Actions](https://github.com/yusdesign/lovepy/actions)
-
----
-
-*Made with 💖 and random numbers*
-EOF
-          
-          # Replace the variables
-          sed -i "s/\$CURRENT_TIME/$CURRENT_TIME/" NEW_README.md
+          echo "\`\`\`" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "**Last Updated:** $CURRENT_TIME" >> NEW_README.md
+          echo "*Updates every 2 hours between 8AM-10PM UTC*" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 🌐 Live Demo" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "Visit the live page: [https://yusdesign.github.io/lovepy/index.html](https://yusdesign.github.io/lovepy/index.html)" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 🛠️ How It Works" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "1. The script runs every 2 hours via GitHub Actions" >> NEW_README.md
+          echo "2. Generates random \"compatibility\" scores" >> NEW_README.md
+          echo "3. Adds a random programming joke" >> NEW_README.md
+          echo "4. Updates both \`result.txt\` and this README automatically" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 📁 Project Structure" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "- \`love_meter.py\` - Main Python script" >> NEW_README.md
+          echo "- \`result.txt\` - Latest results (updated automatically)" >> NEW_README.md
+          echo "- \`love_result.json\` - JSON version of results" >> NEW_README.md
+          echo "- \`.github/workflows/\` - GitHub Actions configuration" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 🔧 Manual Trigger" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "You can manually run the love meter:" >> NEW_README.md
+          echo "1. Go to **Actions** → **🐍 Python Love Meter Cron**" >> NEW_README.md
+          echo "2. Click **Run workflow**" >> NEW_README.md
+          echo "3. Select **main** branch" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "## 📈 History" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "View complete history in [GitHub Actions](https://github.com/yusdesign/lovepy/actions)" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "---" >> NEW_README.md
+          echo "" >> NEW_README.md
+          echo "*Made with 💖 and random numbers*" >> NEW_README.md
           
           # Replace the old README
           mv NEW_README.md README.md
