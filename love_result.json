@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.013809644218781947,
+  "chance": 0.09898899468756128,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'",
-  "timestamp": "2026-01-20T08:29:23.409256",
+  "joke": "Child: Dad, why does the sun rise in the east and set in the west? Dad: Son, it's working, don't touch it.",
+  "timestamp": "2026-01-20T08:29:34.306134",
   "repository": "yusdesign/lovepy",
-  "run_id": "21164578055"
+  "run_id": "21164583809"
 }
