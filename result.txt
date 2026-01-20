@@ -1,7 +1,7 @@
-🤝 Python Love Meter
-🤝 Python kinda likes you... but needs more indentations.
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 46.1%
-😂 Joke: There are II types of people: Those who understand Roman Numerals and those who don't.
-⏰ 2026-01-20 14:33:47 UTC
+🎲 Chance: 5.7%
+😂 Funny: Pirates go 'arg!', computer pirates go 'argv!'
+⏰ 2026-01-20 14:34:00 UTC
 🔗 https://github.com/yusdesign/lovepy
