@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.05251353295544925,
+  "chance": 0.18695115975779042,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "How do you know whether a person is a Vim user? Don't worry, they'll tell you.",
-  "timestamp": "2026-01-20T07:15:02.397851",
+  "joke": "Have you heard about the new Cray super computer? It's so fast, it executes an infinite loop in 6 seconds.",
+  "timestamp": "2026-01-20T07:15:14.256520",
   "repository": "yusdesign/lovepy",
-  "run_id": "21162760212"
+  "run_id": "21162764299"
 }
