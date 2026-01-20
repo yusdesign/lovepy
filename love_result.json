@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.10032953291752156,
+  "chance": 0.16325589190547296,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do they call this a word processor? It's simple, ... you've seen what food processors do to food, right?",
-  "timestamp": "2026-01-20T22:38:11.549929",
+  "joke": "There are only 10 types of people in this world: those who understand binary, and those who don't.",
+  "timestamp": "2026-01-20T22:38:23.291867",
   "repository": "yusdesign/lovepy",
-  "run_id": "21189865472"
+  "run_id": "21189872228"
 }
