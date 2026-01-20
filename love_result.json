@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.19173306265662893,
+  "chance": 0.15105802263440393,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Obfuscated Reality Mappers (ORMs) can be useful database tools.",
-  "timestamp": "2026-01-20T20:26:25.309550",
+  "joke": "Speed Kills! Use Windows.",
+  "timestamp": "2026-01-20T20:26:36.811790",
   "repository": "yusdesign/lovepy",
-  "run_id": "21186061466"
+  "run_id": "21186066458"
 }
