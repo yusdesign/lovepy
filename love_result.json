@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.8811060648138668,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Changed my password to fortnight but apparently that's two week.",
-  "timestamp": "2026-01-20T08:25:35.322744",
+  "level": "SEGFAULT",
+  "chance": 0.22118982360570916,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.",
+  "timestamp": "2026-01-20T08:25:47.774599",
   "repository": "yusdesign/lovepy",
-  "run_id": "21164480201"
+  "run_id": "21164485008"
 }
