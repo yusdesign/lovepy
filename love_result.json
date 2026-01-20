@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.3892677310324275,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "How to explain the movie Inception to a programmer? When you run a VM inside another VM, inside another VM ... everything runs real slow!",
-  "timestamp": "2026-01-20T16:08:16.366112",
+  "level": "SEGFAULT",
+  "chance": 0.053559609900638905,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
+  "timestamp": "2026-01-20T16:08:30.420039",
   "repository": "yusdesign/lovepy",
-  "run_id": "21178516122"
+  "run_id": "21178524597"
 }
