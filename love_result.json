@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.16332006362405616,
+  "chance": 0.12527487798420966,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do they call this a word processor? It's simple, ... you've seen what food processors do to food, right?",
-  "timestamp": "2026-01-20T03:45:48.903536",
+  "joke": "Waiter: Would you like coffee or tea? Programmer: Yes.",
+  "timestamp": "2026-01-20T03:45:59.633609",
   "repository": "yusdesign/lovepy",
-  "run_id": "21158727053"
+  "run_id": "21158729962"
 }
