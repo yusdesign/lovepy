@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.9065718447309414,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "Why do we want intelligent terminals when there are so many stupid users?",
-  "timestamp": "2026-01-21T00:38:52.219401",
+  "level": "SEGFAULT",
+  "chance": 0.223415466823642,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Pirates go 'arg!', computer pirates go 'argv!'",
+  "timestamp": "2026-01-21T00:39:02.842240",
   "repository": "yusdesign/lovepy",
-  "run_id": "21192712116"
+  "run_id": "21192716178"
 }
