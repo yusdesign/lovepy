@@ -1,6 +1,11 @@
 # .github/workflows/love-cron.yml
 name: 🐍 Python Love Meter Cron
 
+# ADD THIS to prevent multiple concurrent runs:
+concurrency: 
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   schedule:
     - cron: '0 8-22/2 * * *'  # Every 2 hours 8AM-10PM UTC
