@@ -5,16 +5,16 @@ A whimsical Python project that measures "love compatibility" with random calcul
 ## 📊 Current Status
 
 ```
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 79.7%
-😂 Extra joke: QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
-⏰ 2026-01-21 00:11:30 UTC
+🎲 Chance: 5.8%
+😂 Funny: If Ruby is not and Perl is the answer, you don't understand the question.
+⏰ 2026-01-21 00:11:42 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-01-21 00:11:30 UTC
+**Last Updated:** 2026-01-21 00:11:42 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
