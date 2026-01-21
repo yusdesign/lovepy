@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5737030296360134,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "What do you call eight hobbits? A hobbyte.",
-  "timestamp": "2026-01-21T00:45:17.291070",
+  "level": "SEGFAULT",
+  "chance": 0.004268693208757002,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Warning, keyboard not found. Press Enter to continue.",
+  "timestamp": "2026-01-21T00:45:29.155582",
   "repository": "yusdesign/lovepy",
-  "run_id": "21192851242"
+  "run_id": "21192857490"
 }
