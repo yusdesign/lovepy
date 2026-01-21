@@ -10,9 +10,7 @@ on:
   schedule:
     - cron: '0 8-22/2 * * *'  # Every 2 hours 8AM-10PM UTC
   workflow_dispatch:  # Manual trigger
-  push:
-    branches: [ main ]
-
+  
 jobs:
   love-check:
     runs-on: ubuntu-latest
