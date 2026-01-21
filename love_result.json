@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.013720009434058933,
+  "chance": 0.14263646066799596,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The C language combines all the power of assembly language with all the ease-of-use of assembly language.",
-  "timestamp": "2026-01-21T00:26:58.447250",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-21T00:27:09.738585",
   "repository": "yusdesign/lovepy",
-  "run_id": "21192452286"
+  "run_id": "21192456226"
 }
