@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2325875323172022,
+  "chance": 0.030939406024060978,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "There are 10 types of people: those who understand binary and those who don't.",
-  "timestamp": "2026-01-25T20:21:52.112277",
+  "joke": "There are three kinds of lies: Lies, damned lies, and benchmarks.",
+  "timestamp": "2026-01-25T22:18:49.879484",
   "repository": "yusdesign/lovepy",
-  "run_id": "21338955416"
+  "run_id": "21340548812"
 }
