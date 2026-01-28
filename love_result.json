@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.22477653002956854,
+  "chance": 0.25846578049889235,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why does Waldo only wear stripes? Because he doesn't want to be spotted.",
-  "timestamp": "2026-01-28T16:34:54.352835",
+  "joke": "I love pressing the F5 key. It's refreshing.",
+  "timestamp": "2026-01-28T18:35:11.157195",
   "repository": "yusdesign/lovepy",
-  "run_id": "21446777009"
+  "run_id": "21450821894"
 }
