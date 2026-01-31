@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7879938464307417,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "'Knock, knock.' 'Who's there?' ... very long pause ... 'Java.'",
-  "timestamp": "2026-01-31T16:25:26.129101",
+  "level": "SEGFAULT",
+  "chance": 0.027264331398835995,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why did Microsoft name their search engine BING? Because It's Not Google.",
+  "timestamp": "2026-01-31T18:29:29.431307",
   "repository": "yusdesign/lovepy",
-  "run_id": "21547366324"
+  "run_id": "21548941719"
 }
