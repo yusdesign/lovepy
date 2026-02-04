@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.12786542157200642,
+  "chance": 0.2462823278189974,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.",
-  "timestamp": "2026-02-04T12:55:40.686829",
+  "joke": "Sympathy for the Devil is really just about being nice to QAs.",
+  "timestamp": "2026-02-04T14:39:26.588281",
   "repository": "yusdesign/lovepy",
-  "run_id": "21672264929"
+  "run_id": "21675696625"
 }
