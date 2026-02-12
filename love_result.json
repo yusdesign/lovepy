@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.21982630091555522,
+  "chance": 0.02320468194355063,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
-  "timestamp": "2026-02-12T16:56:18.893548",
+  "joke": "There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.",
+  "timestamp": "2026-02-12T19:00:25.806973",
   "repository": "yusdesign/lovepy",
-  "run_id": "21956098659"
+  "run_id": "21960232482"
 }
