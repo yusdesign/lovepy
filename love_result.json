@@ -1,10 +1,10 @@
 {
-  "level": "LIKE",
-  "chance": 0.5776346716963954,
-  "emoji": "\ud83e\udd1d",
-  "message": "\ud83e\udd1d Python kinda likes you... but needs more indentations.",
-  "joke": "Why do programmers prefer dark mode? Because light attracts bugs.",
-  "timestamp": "2026-02-13T16:42:52.552609",
+  "level": "SEGFAULT",
+  "chance": 0.2898391884642816,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "Why do programmers confuse Halloween with Christmas? Because OCT 31 == DEC 25.",
+  "timestamp": "2026-02-13T18:44:43.488680",
   "repository": "yusdesign/lovepy",
-  "run_id": "21994867092"
+  "run_id": "21998656318"
 }
