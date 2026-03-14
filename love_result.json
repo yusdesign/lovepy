@@ -1,10 +1,10 @@
 {
-  "level": "LOVE",
-  "chance": 0.7721846359688145,
-  "emoji": "\ud83d\udc96",
-  "message": "\ud83d\udc96 Python loves you unconditionally! \u2764\ufe0f",
-  "joke": "I used to know a joke about Java, but I run out of memory.",
-  "timestamp": "2026-03-14T14:27:08.632664",
+  "level": "SEGFAULT",
+  "chance": 0.1783552700812363,
+  "emoji": "\ud83d\udc94",
+  "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
+  "joke": "What's the object-oriented way to become wealthy? Inheritance.",
+  "timestamp": "2026-03-14T16:29:08.146519",
   "repository": "yusdesign/lovepy",
-  "run_id": "23089830682"
+  "run_id": "23091816071"
 }
