@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.09930107870046101,
+  "chance": 0.29458487790840704,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What do you call a parrot that says \"Squawk! Pieces of nine! Pieces of nine!\"? A parrot-ey error.",
-  "timestamp": "2026-03-14T20:25:53.599232",
+  "joke": "Computers are like air conditioners: they stop working when you open Windows.",
+  "timestamp": "2026-03-14T22:23:40.983526",
   "repository": "yusdesign/lovepy",
-  "run_id": "23095706395"
+  "run_id": "23097630708"
 }
