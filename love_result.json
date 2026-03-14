@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.1783552700812363,
+  "chance": 0.17251490487323062,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "What's the object-oriented way to become wealthy? Inheritance.",
-  "timestamp": "2026-03-14T16:29:08.146519",
+  "joke": "Why was the developer bankrupt? He'd used all his cache.",
+  "timestamp": "2026-03-14T18:35:37.474289",
   "repository": "yusdesign/lovepy",
-  "run_id": "23091816071"
+  "run_id": "23093898245"
 }
