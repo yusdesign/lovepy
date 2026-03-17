@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.11406217917519157,
+  "chance": 0.024908240018531647,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.",
-  "timestamp": "2026-03-17T08:51:54.060999",
+  "joke": "The Internet: where men are men, women are men, and children are FBI agents.",
+  "timestamp": "2026-03-17T10:50:26.693660",
   "repository": "yusdesign/lovepy",
-  "run_id": "23185996729"
+  "run_id": "23190572855"
 }
