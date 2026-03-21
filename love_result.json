@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.14166476934035355,
+  "chance": 0.2157244250666197,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.",
-  "timestamp": "2026-03-21T14:24:48.613037",
+  "joke": "How many programmers does it take to change a lightbulb? None, they just make darkness a standard.",
+  "timestamp": "2026-03-21T16:27:07.055549",
   "repository": "yusdesign/lovepy",
-  "run_id": "23381663004"
+  "run_id": "23383788378"
 }
