@@ -5,16 +5,16 @@ A whimsical Python project that measures "love compatibility" with random calcul
 ## 📊 Current Status
 
 ```
-💖 Python Love Meter
-💖 Python loves you unconditionally! ❤️
+💔 Python Love Meter
+💔 Python's heart is currently segfaulting. Try again later.
 
-🎲 Chance: 73.0%
-😂 Extra joke: I suggested holding a 'Python Object Oriented Programming Seminar', but the acronym was unpopular.
-⏰ 2026-03-21 12:43:33 UTC
+🎲 Chance: 14.2%
+😂 Funny: Asked to explain Unicode during an interview, Geoff went into detail about his final year university project. He was not hired.
+⏰ 2026-03-21 14:24:48 UTC
 🔗 https://github.com/yusdesign/lovepy
 ```
 
-**Last Updated:** 2026-03-21 12:43:33 UTC
+**Last Updated:** 2026-03-21 14:24:48 UTC
 *Updates every 2 hours between 8AM-10PM UTC*
 
 ## 🌐 Live Demo
