@@ -1,10 +1,10 @@
 {
   "level": "SEGFAULT",
-  "chance": 0.2704779077366033,
+  "chance": 0.032572423375115456,
   "emoji": "\ud83d\udc94",
   "message": "\ud83d\udc94 Python's heart is currently segfaulting. Try again later.",
-  "joke": "Why do you always use i and j variales in loops? It's the law......",
-  "timestamp": "2026-04-10T10:51:41.672769",
+  "joke": "Waiter: Would you like coffee or tea? Programmer: Yes.",
+  "timestamp": "2026-04-10T13:05:38.446597",
   "repository": "yusdesign/lovepy",
-  "run_id": "24239404736"
+  "run_id": "24244371468"
 }
